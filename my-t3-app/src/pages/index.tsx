@@ -109,6 +109,35 @@ export default function Home() {
         </div>
 
 
+
+        <div>
+          <div className="mt-60 text-center text-white text-bold text-2xl">
+          Have fun by leveraging our global marketplace
+          </div>
+          <div className="flex mt-10 ">
+            <div>
+              <img src = "https://www.lootrush.com/images/section%201.png" alt = "Best NFTs" className="w-3/4" />
+            </div>
+            <div>
+              <div className="text-white text-4xl font-bold mb-6 mt-10">
+                The best NFTs to enjoy the game
+              </div>
+              <div>
+                 <input type = "checkbox" name = "check" className="align-middle bg-transparent mt-1 focus:ring-primary-400 text-primary-400 border-gray-400 border-2 rounded h-5 w-5"/>
+                 <label className="text-gray-300 text-base ml-4">NFTs curated from experts and guilds</label>
+              </div>
+              <div >
+                 <input type = "checkbox" name = "check" className="align-middle bg-transparent mt-1 focus:ring-primary-400 text-primary-400 border-gray-400 border-2 rounded h-5 w-5"/> 
+                 <label className="text-gray-300 text-base ml-4">Change your NFTs whenever you want</label>
+              </div>
+              <div>
+                 <input type = "checkbox" name = "check" className="align-middle bg-transparent mt-1 focus:ring-primary-400 text-primary-400 border-gray-400 border-2 rounded h-5 w-5"/>
+                 <label className="text-gray-300 text-base ml-4">Various programs to match your gaming preference</label>
+              </div>
+            </div>
+          </div>
+        </div>
+
       </div>
 
     </div>
