@@ -82,29 +82,29 @@ export default function Home() {
           Start playing in a few clicks
         </div>
         <div className= "flex " >
-          <div className="mx-24 text-center ">
-            <img src = "https://www.lootrush.com/images/choose.svg" alt = "img1" />
-            <div className="text-gray-500 inline-flex items-center justify-center font-body select-none relative whitespace-nowrap align-middle outline-0 w-auto px-4 py-2 text-sm rounded-lg bg-opacity-20 shadow border border-transparent text-white bg-gray-600 ">1</div>
-            <p className=""> Choose a game </p>
-            <p></p>
+          <div className=" text-center px-24 ">
+            <img src = "https://www.lootrush.com/images/choose.svg" alt = "img1" className="w-50 h-50 display-block mr-auto ml-auto" />
+            <div className="text-gray-500 rounded-lg bg-gray-600 inline-flex px-4 py-2 ">1</div>
+            <p className="text-white leading-6 font-body font-bold text-xl mt-8"> Choose a game </p>
+            <p className = "leading-6 font-body text-gray-400 mt-5">Create an account and select the game you want to play</p>
           </div>
-          <div className="mx-24 text-center ">
-            <img src = "https://www.lootrush.com/images/pay-entry.svg" alt = "img2" />
-            <p className="text-gray-500 inline-flex items-center justify-center font-body select-none relative whitespace-nowrap align-middle outline-0 w-auto px-4 py-2 text-sm rounded-lg bg-opacity-20 shadow border border-transparent text-white bg-gray-600 " >2</p>
-            <p className=" "> Choose your NFTs</p>
-            <p></p>
+          <div className=" text-center px-24 ">
+            <img src = "https://www.lootrush.com/images/pay-entry.svg" alt = "img2" className="w-50 h-50 display-block mr-auto ml-auto " />
+            <p className="text-gray-500 rounded-lg bg-gray-600 inline-flex px-4 py-2 " >2</p>
+            <p className="text-white leading-6 font-body font-bold text-xl mt-8"> Choose your NFTs</p>
+            <p className = "leading-6 font-body text-gray-400 mt-5">Select the NFTs that best fit your gaming preference</p>
           </div>
-          <div className="mx-24 text-center ">
-            <img src = "https://www.lootrush.com/images/have-fun.svg" alt = "img3" />
-            <p className="text-gray-500 inline-flex items-center justify-center font-body select-none relative whitespace-nowrap align-middle outline-0 w-auto px-4 py-2 text-sm rounded-lg bg-opacity-20 shadow border border-transparent text-white bg-gray-600 " >3</p>
-            <p className=""> Start playing </p>
-            <p></p>
+          <div className=" text-center px-24 ">
+            <img src = "https://www.lootrush.com/images/have-fun.svg" alt = "img3" className="w-50 h-50 display-block mr-auto ml-auto "/>
+            <p className="text-gray-500 rounded-lg bg-gray-600 inline-flex px-4 py-2 " >3</p>
+            <p className="text-white leading-6 font-body font-bold text-xl mt-8"> Start playing </p>
+            <p className = "leading-6 font-body text-gray-400 mt-5">Get access to your account credentials and have fun!</p>
           </div>
-          <div className="mx-28 text-center " >
-            <img src = "https://www.lootrush.com/images/play-to-earn.svg" alt = "img4 " />
-            <p className="text-gray-500 inline-flex items-center justify-center font-body select-none relative whitespace-nowrap align-middle outline-0 w-auto px-4 py-2 text-sm rounded-lg bg-opacity-20 shadow border border-transparent text-white bg-gray-600 " >4</p>
-            <p className="text-center"> Earn tokens through gameplay </p>
-            <p></p>
+          <div className=" text-center px-24 " >
+            <span><img src = "https://www.lootrush.com/images/play-to-earn.svg" alt = "img4 " className="w-50 h-50 display-block mr-auto ml-auto "/></span>
+            <p className="text-gray-500 rounded-lg bg-gray-600 inline-flex px-4 py-2 " >4</p>
+            <p className="text-white leading-6 font-body font-bold text-xl mt-8"> Earn tokens through gameplay </p>
+            <p className = "leading-6 font-body text-gray-400 mt-5">Withdraw earned tokens into your own wallet, or use them to buy or upgrade NFTs</p>
           </div>
         </div>
 
