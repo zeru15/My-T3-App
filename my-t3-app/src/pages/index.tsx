@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Footer from "../components/footer";
 
 export default function Home() {
 
@@ -11,9 +12,8 @@ export default function Home() {
 
         {/* Left Side */}
         <div className="flex items-center " >
-          <Link href="#">
-            <a> <img src="https://www.lootrush.com/images/logo.svg" alt="Logo" className="inline-block p-4 ml-12" /> </a>
-          </Link>
+
+          <a href="https://www.lootrush.com"> <img src="https://www.lootrush.com/images/logo.svg" alt="Logo" className="inline-block p-4 ml-12" /> </a>
 
           <Link href="#" >
             <a className="text-white inline-block p-2 bg-white bg-opacity-0 hover:bg-opacity-20 rounded-lg "> All Games </a>
@@ -164,12 +164,12 @@ export default function Home() {
 
 
         <div className=" flex mt-40 ">
-        <div className = "pl-36">
+          <div className="pl-36">
             <img src="https://www.lootrush.com/images/section%203.png" alt="NFTs to other players" className="w-full" />
           </div>
           <div className="px-20">
             <div className="text-white text-4xl font-bold mb-6 mt-10 ">
-            List your NFTs to other players
+              List your NFTs to other players
             </div>
             <div>
               <input type="checkbox" checked name="check" className="align-middle bg-transparent mt-1 focus:ring-primary-400 text-primary-400 border-gray-400 border-2 rounded h-5 w-5" />
@@ -184,11 +184,23 @@ export default function Home() {
               <label className="text-gray-300 text-base ml-4">Know how much you will earn through listing</label>
             </div>
           </div>
-          
         </div>
 
 
+        <div className="text-center mt-40 py-12 bg-violet-500 mx-10 rounded-lg ">
+          <p className=" text-white leading-6 font-body font-bold text-3xl mb-8">
+            Let's start
+          </p>
+          <Link href="#" >
+            <a className="px-4 py-2 text-sm rounded-lg border border-transparent shadow transition focus:outline-none hover:no-underline text-black hover:text-black active:text-black bg-white hover:bg-gray-200 active:bg-gray-300" > Explore all games </a>
+          </Link>
+        </div>
+      </div>
 
+
+      {/* Footer Section */}
+      <div>
+        <Footer />
       </div>
 
     </div>
