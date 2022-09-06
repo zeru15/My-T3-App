@@ -49,29 +49,29 @@ export default function Home() {
 
         {/* Bottom Section */}
         <div className="flex mt-12 text-center ">
-          <div className = "p-2 ">
-            <img src = "https://www.lootrush.com/images/gods%20unchained.png"  alt = "Img" className = "rounded-lg "/>
+          <div className="p-2 ">
+            <img src="https://www.lootrush.com/images/gods%20unchained.png" alt="Img" className="rounded-lg " />
           </div>
-          <div className = "p-2  ">
-            <img src = "https://www.lootrush.com/images/blankos.png" alt = "Img" className = "rounded-lg "/>
+          <div className="p-2  ">
+            <img src="https://www.lootrush.com/images/blankos.png" alt="Img" className="rounded-lg " />
           </div>
-          <div className = "p-2 ">
-            <img src = "https://www.lootrush.com/images/illuvium.png" alt = "Img" className = "rounded-lg "/>
+          <div className="p-2 ">
+            <img src="https://www.lootrush.com/images/illuvium.png" alt="Img" className="rounded-lg " />
           </div>
-          <div className = "p-2 ">
-            <img src = "https://www.lootrush.com/images/games/axie-infinity-origin/AxieinfinityOriginCard.png" alt = "Img" className = "rounded-lg "/>
+          <div className="p-2 ">
+            <img src="https://www.lootrush.com/images/games/axie-infinity-origin/AxieinfinityOriginCard.png" alt="Img" className="rounded-lg " />
           </div>
-          <div className = "p-2 ">
-            <img src = "https://www.lootrush.com/images/thetan%20arena.png" alt = "Img" className = "rounded-lg " />
+          <div className="p-2 ">
+            <img src="https://www.lootrush.com/images/thetan%20arena.png" alt="Img" className="rounded-lg " />
           </div>
-          <div className = "p-2 ">
-            <img src = "https://www.lootrush.com/images/sorare.png" alt = "Img" className = "rounded-lg "/>
+          <div className="p-2 ">
+            <img src="https://www.lootrush.com/images/sorare.png" alt="Img" className="rounded-lg " />
           </div>
-          <div className = "p-2 ">
-            <img src = "https://www.lootrush.com/images/star%20atlas.png" alt = "Img" className = "rounded-lg " />
+          <div className="p-2 ">
+            <img src="https://www.lootrush.com/images/star%20atlas.png" alt="Img" className="rounded-lg " />
           </div>
-          <div className = "p-2 ">
-            <img src = "https://www.lootrush.com/images/zed.png" alt = "Img" className = "rounded-lg "/>
+          <div className="p-2 ">
+            <img src="https://www.lootrush.com/images/zed.png" alt="Img" className="rounded-lg " />
           </div>
         </div>
       </div>
@@ -81,30 +81,30 @@ export default function Home() {
         <div className="text-white text-5xl text-center mb-20 ">
           Start playing in a few clicks
         </div>
-        <div className= "flex " >
-          <div className=" text-center px-24 ">
-            <img src = "https://www.lootrush.com/images/choose.svg" alt = "img1" className="w-50 h-50 display-block mr-auto ml-auto" />
+        <div className="flex " >
+          <div className=" text-center px-20 ">
+            <img src="https://www.lootrush.com/images/choose.svg" alt="img1" className="w-50 h-50 display-block mr-auto ml-auto" />
             <div className="text-gray-500 rounded-lg bg-gray-600 inline-flex px-4 py-2 ">1</div>
             <p className="text-white leading-6 font-body font-bold text-xl mt-8"> Choose a game </p>
-            <p className = "leading-6 font-body text-gray-400 mt-5">Create an account and select the game you want to play</p>
+            <p className="leading-6 font-body text-gray-400 mt-5">Create an account and select the game you want to play</p>
           </div>
-          <div className=" text-center px-24 ">
-            <img src = "https://www.lootrush.com/images/pay-entry.svg" alt = "img2" className="w-50 h-50 display-block mr-auto ml-auto " />
+          <div className=" text-center px-20 ">
+            <img src="https://www.lootrush.com/images/pay-entry.svg" alt="img2" className="w-50 h-50 display-block mr-auto ml-auto " />
             <p className="text-gray-500 rounded-lg bg-gray-600 inline-flex px-4 py-2 " >2</p>
             <p className="text-white leading-6 font-body font-bold text-xl mt-8"> Choose your NFTs</p>
-            <p className = "leading-6 font-body text-gray-400 mt-5">Select the NFTs that best fit your gaming preference</p>
+            <p className="leading-6 font-body text-gray-400 mt-5">Select the NFTs that best fit your gaming preference</p>
           </div>
-          <div className=" text-center px-24 ">
-            <img src = "https://www.lootrush.com/images/have-fun.svg" alt = "img3" className="w-50 h-50 display-block mr-auto ml-auto "/>
+          <div className=" text-center px-20 ">
+            <img src="https://www.lootrush.com/images/have-fun.svg" alt="img3" className="w-50 h-50 display-block mr-auto ml-auto " />
             <p className="text-gray-500 rounded-lg bg-gray-600 inline-flex px-4 py-2 " >3</p>
             <p className="text-white leading-6 font-body font-bold text-xl mt-8"> Start playing </p>
-            <p className = "leading-6 font-body text-gray-400 mt-5">Get access to your account credentials and have fun!</p>
+            <p className="leading-6 font-body text-gray-400 mt-5">Get access to your account credentials and have fun!</p>
           </div>
-          <div className=" text-center px-24 " >
-            <span><img src = "https://www.lootrush.com/images/play-to-earn.svg" alt = "img4 " className="w-50 h-50 display-block mr-auto ml-auto "/></span>
+          <div className=" text-center px-20 " >
+            <span><img src="https://www.lootrush.com/images/play-to-earn.svg" alt="img4 " className="w-50 h-50 display-block mr-auto ml-auto " /></span>
             <p className="text-gray-500 rounded-lg bg-gray-600 inline-flex px-4 py-2 " >4</p>
             <p className="text-white leading-6 font-body font-bold text-xl mt-8"> Earn tokens through gameplay </p>
-            <p className = "leading-6 font-body text-gray-400 mt-5">Withdraw earned tokens into your own wallet, or use them to buy or upgrade NFTs</p>
+            <p className="leading-6 font-body text-gray-400 mt-5">Withdraw earned tokens into your own wallet, or use them to buy or upgrade NFTs</p>
           </div>
         </div>
 
@@ -112,31 +112,82 @@ export default function Home() {
 
         <div>
           <div className="mt-60 text-center text-white text-bold text-2xl">
-          Have fun by leveraging our global marketplace
+            Have fun by leveraging our global marketplace
           </div>
           <div className="flex mt-10 ">
-            <div>
-              <img src = "https://www.lootrush.com/images/section%201.png" alt = "Best NFTs" className="w-3/4" />
+            <div className="pl-20">
+              <img src="https://www.lootrush.com/images/section%201.png" alt="Best NFTs" className="w-3/4" />
             </div>
-            <div>
+            <div className="pl-20">
               <div className="text-white text-4xl font-bold mb-6 mt-10">
                 The best NFTs to enjoy the game
               </div>
               <div>
-                 <input type = "checkbox" name = "check" className="align-middle bg-transparent mt-1 focus:ring-primary-400 text-primary-400 border-gray-400 border-2 rounded h-5 w-5"/>
-                 <label className="text-gray-300 text-base ml-4">NFTs curated from experts and guilds</label>
+                <input type="checkbox" checked name="check" className="align-middle bg-transparent mt-1 focus:ring-primary-400 text-primary-400 border-gray-400 border-2 rounded h-5 w-5" />
+                <label className="text-gray-300 text-base ml-4">NFTs curated from experts and guilds</label>
               </div>
               <div >
-                 <input type = "checkbox" name = "check" className="align-middle bg-transparent mt-1 focus:ring-primary-400 text-primary-400 border-gray-400 border-2 rounded h-5 w-5"/> 
-                 <label className="text-gray-300 text-base ml-4">Change your NFTs whenever you want</label>
+                <input type="checkbox" checked name="check" className="align-middle bg-transparent mt-1 focus:ring-primary-400 text-primary-400 border-gray-400 border-2 rounded h-5 w-5" />
+                <label className="text-gray-300 text-base ml-4">Change your NFTs whenever you want</label>
               </div>
               <div>
-                 <input type = "checkbox" name = "check" className="align-middle bg-transparent mt-1 focus:ring-primary-400 text-primary-400 border-gray-400 border-2 rounded h-5 w-5"/>
-                 <label className="text-gray-300 text-base ml-4">Various programs to match your gaming preference</label>
+                <input type="checkbox" checked name="check" className="align-middle bg-transparent mt-1 focus:ring-primary-400 text-primary-400 border-gray-400 border-2 rounded h-5 w-5" />
+                <label className="text-gray-300 text-base ml-4">Various programs to match your gaming preference</label>
               </div>
             </div>
           </div>
         </div>
+
+
+        <div className=" flex mt-40 ">
+          <div className="px-20">
+            <div className="text-white text-4xl font-bold mb-6 mt-10 ">
+              Earn crypto tokens by playing games
+            </div>
+            <div>
+              <input type="checkbox" checked name="check" className="align-middle bg-transparent mt-1 focus:ring-primary-400 text-primary-400 border-gray-400 border-2 rounded h-5 w-5" />
+              <label className="text-gray-300 text-base ml-4">Use your gaming skills to grow your balance</label>
+            </div>
+            <div >
+              <input type="checkbox" checked name="check" className="align-middle bg-transparent mt-1 focus:ring-primary-400 text-primary-400 border-gray-400 border-2 rounded h-5 w-5" />
+              <label className="text-gray-300 text-base ml-4">Purchase your own NFTs</label>
+            </div>
+            <div>
+              <input type="checkbox" checked name="check" className="align-middle bg-transparent mt-1 focus:ring-primary-400 text-primary-400 border-gray-400 border-2 rounded h-5 w-5" />
+              <label className="text-gray-300 text-base ml-4">Become a top player... Or just have fun!</label>
+            </div>
+          </div>
+          <div>
+            <img src="https://www.lootrush.com/images/section%202.png" alt="crypto tokens" className="w-3/4" />
+          </div>
+        </div>
+
+
+        <div className=" flex mt-40 ">
+        <div className = "pl-36">
+            <img src="https://www.lootrush.com/images/section%203.png" alt="NFTs to other players" className="w-full" />
+          </div>
+          <div className="px-20">
+            <div className="text-white text-4xl font-bold mb-6 mt-10 ">
+            List your NFTs to other players
+            </div>
+            <div>
+              <input type="checkbox" checked name="check" className="align-middle bg-transparent mt-1 focus:ring-primary-400 text-primary-400 border-gray-400 border-2 rounded h-5 w-5" />
+              <label className="text-gray-300 text-base ml-4">Easy - no gamer management required</label>
+            </div>
+            <div >
+              <input type="checkbox" checked name="check" className="align-middle bg-transparent mt-1 focus:ring-primary-400 text-primary-400 border-gray-400 border-2 rounded h-5 w-5" />
+              <label className="text-gray-300 text-base ml-4">Have your NFTs earn tokens when you are not playing</label>
+            </div>
+            <div>
+              <input type="checkbox" checked name="check" className="align-middle bg-transparent mt-1 focus:ring-primary-400 text-primary-400 border-gray-400 border-2 rounded h-5 w-5" />
+              <label className="text-gray-300 text-base ml-4">Know how much you will earn through listing</label>
+            </div>
+          </div>
+          
+        </div>
+
+
 
       </div>
 
