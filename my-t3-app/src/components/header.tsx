@@ -1,8 +1,9 @@
 import Link from "next/link"
 
 function Header() {
+
     return (
-        <div>
+        <div className="sticky top-0 z-30">
             {/* Navbar Header Section */}
             < div className="bg-gray-800  border-b border-gray-600 shadow-lg items-center flex justify-between w-full fixed top-0 " >
 

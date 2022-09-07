@@ -2,7 +2,7 @@ import Link from "next/link"
 
 function Footer() {
     return (
-        <div className = "bg-gray-800 " >
+        <div className = "bg-gray-900 pt-12 " >
             <div className="flex border-b border-gray-600 pb-12 ">
                 <div className="px-10 " >
                     <span> <img src="https://www.lootrush.com/images/logo.svg" alt="Logo" className="inline-block p-4 ml-12" /> </span>
@@ -32,7 +32,10 @@ function Footer() {
                 <div className="px-10 " >
                     <p className="text-white font-sans text-base font-bold leading-[24px] mb-6 " > Community </p>
                     <p className="text-gray-500 text-base mb-4 "> Enable gamers all over the world with us. </p>
-                    <p> <a href="#" className="text-white hover:text-white px-4 py-2 text-base rounded-lg border border-transparent shadow transition focus:outline-none hover:no-underline text-white hover:text-white active:text-white bg-gray-600 hover:bg-gray-700 active:bg-gray-800" > Join our community </a> </p>
+                    <p> <a href="#" className="text-white hover:text-white px-4 py-2 text-base rounded-lg 
+                    border border-transparent shadow transition focus:outline-none hover:no-underline 
+                    text-white hover:text-white active:text-white bg-gray-600 
+                    hover:bg-gray-700 active:bg-gray-800" > Join our community </a> </p>
                 </div>
                 <div className="px-10 " >
                     <p className="text-white font-sans text-base font-bold leading-[24px] mb-6 " > Our Location </p>
