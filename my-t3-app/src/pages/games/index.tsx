@@ -1,6 +1,6 @@
 import Link from "next/link"
-import Footer from "../components/footer"
-import Header from "../components/header"
+import Footer from "../../components/footer"
+import Header from "../../components/header"
 
 function Games() {
     return (
@@ -277,7 +277,7 @@ function Games() {
 
             {/* Footer */}
             <div>
-                <Footer/>
+                <Footer />
             </div>
 
         </div>

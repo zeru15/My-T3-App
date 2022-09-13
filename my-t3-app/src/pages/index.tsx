@@ -13,7 +13,7 @@ export default function Home() {
       {/* Hero Section */}
       <div className="bg-gray-800 py-32 ">
         {/* Upper Section */}
-        <div className="text-center pt-20 text-white text-4xl font-semibold  ">
+        <div className="text-center pt-20 text-white text-2xl md:text-4xl font-semibold  ">
           Crypto gaming for all
         </div>
         <div className="text-center text-gray-400 pt-10 ">
@@ -26,7 +26,7 @@ export default function Home() {
         </div>
 
         {/* Bottom Section */}
-        <div className="flex mt-12 text-center ">
+        <div className="grid grid-cols-2 md:grid-cols-4 lg:flex mt-12 text-center ">
           <div className="p-2 ">
             <img src="https://www.lootrush.com/images/gods%20unchained.png" alt="Img" className="rounded-lg " />
           </div>
@@ -56,10 +56,10 @@ export default function Home() {
 
       {/* Middle Section */}
       <div className=" bg-gray-800 pb-20">
-        <div className="text-white text-5xl text-center mb-20 ">
+        <div className="text-white text-3xl md:text-5xl text-center mb-20 ">
           Start playing in a few clicks
         </div>
-        <div className="flex " >
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:flex " >
           <div className=" text-center px-20 ">
             <img src="https://www.lootrush.com/images/choose.svg" alt="img1" className="w-50 h-50 display-block mr-auto ml-auto" />
             <div className="text-gray-500 rounded-lg bg-gray-600 inline-flex px-4 py-2 ">1</div>
@@ -92,12 +92,12 @@ export default function Home() {
           <div className="mt-60 text-center text-white text-bold text-2xl">
             Have fun by leveraging our global marketplace
           </div>
-          <div className="flex mt-10 ">
+          <div className="grid grid-cols-1 md:flex mt-10 ">
             <div className="pl-20">
               <img src="https://www.lootrush.com/images/section%201.png" alt="Best NFTs" className="w-3/4" />
             </div>
             <div className="pl-20">
-              <div className="text-white text-4xl font-bold mb-6 mt-10">
+              <div className="text-white text-3xl md:text-4xl font-bold mb-6 mt-10">
                 The best NFTs to enjoy the game
               </div>
               <div>
@@ -117,9 +117,9 @@ export default function Home() {
         </div>
 
 
-        <div className=" flex mt-40 ">
+        <div className="grid grid-cols-1 md:flex mt-40 ">
           <div className="px-20">
-            <div className="text-white text-4xl font-bold mb-6 mt-10 ">
+            <div className="text-white text-3xl md:text-4xl font-bold mb-6 mt-10 ">
               Earn crypto tokens by playing games
             </div>
             <div>
@@ -141,12 +141,12 @@ export default function Home() {
         </div>
 
 
-        <div className=" flex mt-40 ">
+        <div className="grid grid-cols-1 md:flex mt-40 ">
           <div className="pl-36">
             <img src="https://www.lootrush.com/images/section%203.png" alt="NFTs to other players" className="w-full" />
           </div>
           <div className="px-20">
-            <div className="text-white text-4xl font-bold mb-6 mt-10 ">
+            <div className="text-white text-3xl md:text-4xl font-bold mb-6 mt-10 ">
               List your NFTs to other players
             </div>
             <div>

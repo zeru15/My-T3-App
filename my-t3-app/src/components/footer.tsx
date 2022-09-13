@@ -2,8 +2,8 @@ import Link from "next/link"
 
 function Footer() {
     return (
-        <div className = "bg-gray-900 pt-12 " >
-            <div className="flex border-b border-gray-600 pb-12 ">
+        <div className = "bg-gray-900 pt-12 border-t border-gray-600" >
+            <div className="grid grid-cols-2 sm:grid sm:grid-cols-3 lg:flex border-b border-gray-600 pb-12 ">
                 <div className="px-10 " >
                     <span> <img src="https://www.lootrush.com/images/logo.svg" alt="Logo" className="inline-block p-4 ml-12" /> </span>
                     <p className="text-gray-500 text-base"> &copy; 2022 Smelt Technologies Inc. </p>

@@ -24,7 +24,7 @@ function About() {
                 <div className="font-display text-3xl tracking-tight text-white sm:text-4xl text-center py-12 ">
                     Board of Directors
                 </div>
-                <div className="flex " >
+                <div className="grid grid-cols-1 md:grid-cols-2  lg:flex " >
                     <div className=" text-center px-20 ">
                         <img src="https://www.lootrush.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fanderson.a64a8736.png&w=256&q=75" alt="img1" className="w-50 h-50 display-block mr-auto ml-auto" />
                         <p className="text-white leading-6 font-body font-bold text-xl mt-8"> Anderson Ferminiano </p>
@@ -59,8 +59,8 @@ function About() {
                 <div className="text-center font-display text-3xl tracking-tight text-white sm:text-4xl ">
                     What they say about us
                 </div>
-                <ul className="flex p-20 ">
-                    <li className="h-full relative p-12 m-4 rounded-lg bg-gradient-to-b from-[#ED2024]/20 via-gray-700 to-gray-700">
+                <ul className="grid grid-cols-1 md:flex p-20 ">
+                    <li className="h-full relative p-12  m-4 rounded-lg bg-gradient-to-b from-[#ED2024]/20 via-gray-700 to-gray-700">
                         <img src="https://www.lootrush.com/_next/static/media/venturebeat.9d2263d6.svg" alt="Venture Beat" className="py-12 pl-4" />
                         <p className="text-3xl text-white"> LootRush aims to bring affordable NFTs to the masses </p>
                         <p className="text-sm mt-6 text-gray-300 text-muted"> By Anushree Dave • May 5, 2022 </p>
@@ -86,7 +86,7 @@ function About() {
                 <p className="text-center text-gray-500 font-base mt-4  " >
                     LootRush is backed by some of the world's most prominent tech, gaming, and crypto investors.
                 </p>
-                <ul className=" grid grid-cols-3 gap-10 m-20 ">
+                <ul className=" grid grid-cols-2 sm:grid sm:grid-cols-3 gap-10 m-20 ">
                     <li className="text-white items-center justify-center text-base rounded-lg 
                     border border-transparent shadow transition focus:outline-none  py-14
                     text-white bg-gray-600 ">
