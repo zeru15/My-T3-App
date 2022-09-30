@@ -1,0 +1,2315 @@
+{
+    "data": {
+        "productDefinitionsDynamicFilters": {
+            "__typename": "ProductDefinitionsConnection",
+            "nodes": [
+                {
+                    "__typename": "ProductDefinition",
+                    "id": "53c33e07-1bbf-4e22-b015-38670a75bcf5",
+                    "name": "[CM] Dusk Beast Aqua",
+                    "status": "ACTIVE",
+                    "stockAvailable": true,
+                    "localizations": [
+                        {
+                            "__typename": "ProductDefinitionLocalization",
+                            "lang": "en-US",
+                            "payload": {
+                                "__typename": "ProductDefinitionLocalizationForAxieInfinity",
+                                "tag": "Damage",
+                                "name": "[CM] Dusk Beast Aqua",
+                                "description": "",
+                                "maxMmr": 0,
+                                "minMmr": 0,
+                                "energy": 40,
+                                "characters": [
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/9528929/axie/axie-full-transparent.png",
+                                        "name": "Dusk",
+                                        "cards": [
+                                            "Sleepless",
+                                            "Tiny Turtle",
+                                            "Risky Bird",
+                                            "Bumpy",
+                                            "Bone Sail",
+                                            "Nimo"
+                                        ],
+                                        "description": "",
+                                        "category": "Front",
+                                        "maxHealth": 0,
+                                        "minHealth": 0,
+                                        "maxMorale": 0,
+                                        "minMorale": 0,
+                                        "maxSpeed": 0,
+                                        "minSpeed": 0,
+                                        "maxSkill": 0,
+                                        "minSkill": 0
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/4111265/axie/axie-full-transparent.png",
+                                        "name": "Aqua",
+                                        "cards": [
+                                            "Sleepless",
+                                            "Shoal Star",
+                                            "Beetle Spike",
+                                            "Herbivore",
+                                            "Goldfish",
+                                            "Nimo"
+                                        ],
+                                        "description": "",
+                                        "category": "Mid",
+                                        "maxHealth": 0,
+                                        "minHealth": 0,
+                                        "maxMorale": 0,
+                                        "minMorale": 0,
+                                        "maxSpeed": 0,
+                                        "minSpeed": 0,
+                                        "maxSkill": 0,
+                                        "minSkill": 0
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/4196997/axie/axie-full-transparent.png",
+                                        "name": "Beast",
+                                        "cards": [
+                                            "Carrot",
+                                            "Chubby",
+                                            "Imp",
+                                            "Nutcracker",
+                                            "Nutcracker",
+                                            "Snail Shell"
+                                        ],
+                                        "description": "",
+                                        "category": "Back",
+                                        "maxHealth": 0,
+                                        "minHealth": 0,
+                                        "maxMorale": 0,
+                                        "minMorale": 0,
+                                        "maxSpeed": 0,
+                                        "minSpeed": 0,
+                                        "maxSkill": 0,
+                                        "minSkill": 0
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "pricing": {
+                        "__typename": "EntryFeeAndDailySubscription",
+                        "entryFee": {
+                            "__typename": "PricingDetails",
+                            "productId": "55690768-025b-4ee2-99d3-fc4c7253c50a",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "US Dollar",
+                                "identifier": "usd",
+                                "isoCode": "USD",
+                                "isCrypto": false,
+                                "symbol": "$",
+                                "displayPrecision": 2
+                            },
+                            "amount": 0,
+                            "amountPrecision": 2,
+                            "amountCurrencyId": "472c01d9-a154-4e9a-bf9e-cd6bd8e83452"
+                        },
+                        "subscription": {
+                            "__typename": "PricingDetails",
+                            "productId": "6b4916c2-f38d-4774-9e5f-5185921f5a9b",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "Smooth Love Potion",
+                                "identifier": "axie-slp",
+                                "isoCode": "SLP",
+                                "isCrypto": true,
+                                "symbol": "SLP",
+                                "displayPrecision": 0
+                            },
+                            "amount": 30,
+                            "amountPrecision": 0,
+                            "amountCurrencyId": "8f1360bb-5e9b-437a-8515-6499922c7deb"
+                        }
+                    }
+                },
+                {
+                    "__typename": "ProductDefinition",
+                    "id": "87106074-ccdb-4cc4-90a4-438374e17a6e",
+                    "name": "[CM] Triple Aqua Oranda",
+                    "status": "ACTIVE",
+                    "stockAvailable": true,
+                    "localizations": [
+                        {
+                            "__typename": "ProductDefinitionLocalization",
+                            "lang": "en-US",
+                            "payload": {
+                                "__typename": "ProductDefinitionLocalizationForAxieInfinity",
+                                "tag": "Damage",
+                                "name": "[CM] Triple Aqua Oranda",
+                                "description": "",
+                                "maxMmr": 0,
+                                "minMmr": 0,
+                                "energy": 40,
+                                "characters": [
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/8212297/axie/axie-full-transparent.png",
+                                        "name": "Aqua",
+                                        "cards": [
+                                            "Gero",
+                                            "Anemone",
+                                            "Nimo",
+                                            "Lam",
+                                            "Anemone",
+                                            "Nimo"
+                                        ],
+                                        "description": "",
+                                        "category": "Front",
+                                        "maxHealth": 0,
+                                        "minHealth": 0,
+                                        "maxMorale": 0,
+                                        "minMorale": 0,
+                                        "maxSpeed": 0,
+                                        "minSpeed": 0,
+                                        "maxSkill": 0,
+                                        "minSkill": 0
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/8292868/axie/axie-full-transparent.png",
+                                        "name": "Aqua",
+                                        "cards": [
+                                            "Sleepless",
+                                            "Risky Fish",
+                                            "Sidebarb",
+                                            "Oranda",
+                                            "Goldfish",
+                                            "Nimo"
+                                        ],
+                                        "description": "",
+                                        "category": "Mid",
+                                        "maxHealth": 0,
+                                        "minHealth": 0,
+                                        "maxMorale": 0,
+                                        "minMorale": 0,
+                                        "maxSpeed": 0,
+                                        "minSpeed": 0,
+                                        "maxSkill": 0,
+                                        "minSkill": 0
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/8622584/axie/axie-full-transparent.png",
+                                        "name": "Aqua",
+                                        "cards": [
+                                            "Clear",
+                                            "Goldfish",
+                                            "Inkling",
+                                            "Nimo",
+                                            "Pocky",
+                                            "Risky Fish"
+                                        ],
+                                        "description": "",
+                                        "category": "Back",
+                                        "maxHealth": 0,
+                                        "minHealth": 0,
+                                        "maxMorale": 0,
+                                        "minMorale": 0,
+                                        "maxSpeed": 0,
+                                        "minSpeed": 0,
+                                        "maxSkill": 0,
+                                        "minSkill": 0
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "pricing": {
+                        "__typename": "EntryFeeAndDailySubscription",
+                        "entryFee": {
+                            "__typename": "PricingDetails",
+                            "productId": "55690768-025b-4ee2-99d3-fc4c7253c50a",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "US Dollar",
+                                "identifier": "usd",
+                                "isoCode": "USD",
+                                "isCrypto": false,
+                                "symbol": "$",
+                                "displayPrecision": 2
+                            },
+                            "amount": 0,
+                            "amountPrecision": 2,
+                            "amountCurrencyId": "472c01d9-a154-4e9a-bf9e-cd6bd8e83452"
+                        },
+                        "subscription": {
+                            "__typename": "PricingDetails",
+                            "productId": "6b4916c2-f38d-4774-9e5f-5185921f5a9b",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "Smooth Love Potion",
+                                "identifier": "axie-slp",
+                                "isoCode": "SLP",
+                                "isCrypto": true,
+                                "symbol": "SLP",
+                                "displayPrecision": 0
+                            },
+                            "amount": 30,
+                            "amountPrecision": 0,
+                            "amountCurrencyId": "8f1360bb-5e9b-437a-8515-6499922c7deb"
+                        }
+                    }
+                },
+                {
+                    "__typename": "ProductDefinition",
+                    "id": "e953ee23-296a-4ce7-aefd-df22f137d6df",
+                    "name": "[CM] Aqua Beast Bird (Starship)",
+                    "status": "ACTIVE",
+                    "stockAvailable": true,
+                    "localizations": [
+                        {
+                            "__typename": "ProductDefinitionLocalization",
+                            "lang": "en-US",
+                            "payload": {
+                                "__typename": "ProductDefinitionLocalizationForAxieInfinity",
+                                "tag": "Damage",
+                                "name": "[CM] Aqua Beast Bird (Starship)",
+                                "description": "",
+                                "maxMmr": 900,
+                                "minMmr": 571,
+                                "energy": 20,
+                                "characters": [
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/4263184/axie/axie-full-transparent.png",
+                                        "name": "Beast",
+                                        "cards": [
+                                            "Chubby",
+                                            "Nutcracker",
+                                            "Nutcracker",
+                                            "Ronin",
+                                            "Nutcracker",
+                                            "Imp"
+                                        ],
+                                        "description": "",
+                                        "category": "Front",
+                                        "maxHealth": 0,
+                                        "minHealth": 0,
+                                        "maxMorale": 0,
+                                        "minMorale": 0,
+                                        "maxSpeed": 0,
+                                        "minSpeed": 0,
+                                        "maxSkill": 0,
+                                        "minSkill": 0
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/8301014/axie/axie-full-transparent.png",
+                                        "name": "Aqua",
+                                        "cards": [
+                                            "Gero",
+                                            "Anemone",
+                                            "Zen",
+                                            "Lam",
+                                            "Anemone",
+                                            "Nimo"
+                                        ],
+                                        "description": "",
+                                        "category": "Mid",
+                                        "maxHealth": 0,
+                                        "minHealth": 0,
+                                        "maxMorale": 0,
+                                        "minMorale": 0,
+                                        "maxSpeed": 0,
+                                        "minSpeed": 0,
+                                        "maxSkill": 0,
+                                        "minSkill": 0
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/9993161/axie/axie-full-transparent.png",
+                                        "name": "Bird",
+                                        "cards": [
+                                            "Eggshell",
+                                            "Little Owl",
+                                            "Mavis",
+                                            "Pigeon Post",
+                                            "Pink Cheek",
+                                            "Post Fight"
+                                        ],
+                                        "description": "",
+                                        "category": "Front",
+                                        "maxHealth": 0,
+                                        "minHealth": 0,
+                                        "maxMorale": 0,
+                                        "minMorale": 0,
+                                        "maxSpeed": 0,
+                                        "minSpeed": 0,
+                                        "maxSkill": 0,
+                                        "minSkill": 0
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "pricing": {
+                        "__typename": "EntryFeeAndDailySubscription",
+                        "entryFee": {
+                            "__typename": "PricingDetails",
+                            "productId": "55690768-025b-4ee2-99d3-fc4c7253c50a",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "US Dollar",
+                                "identifier": "usd",
+                                "isoCode": "USD",
+                                "isCrypto": false,
+                                "symbol": "$",
+                                "displayPrecision": 2
+                            },
+                            "amount": 0,
+                            "amountPrecision": 2,
+                            "amountCurrencyId": "472c01d9-a154-4e9a-bf9e-cd6bd8e83452"
+                        },
+                        "subscription": {
+                            "__typename": "PricingDetails",
+                            "productId": "6b4916c2-f38d-4774-9e5f-5185921f5a9b",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "Smooth Love Potion",
+                                "identifier": "axie-slp",
+                                "isoCode": "SLP",
+                                "isCrypto": true,
+                                "symbol": "SLP",
+                                "displayPrecision": 0
+                            },
+                            "amount": 30,
+                            "amountPrecision": 0,
+                            "amountCurrencyId": "8f1360bb-5e9b-437a-8515-6499922c7deb"
+                        }
+                    }
+                },
+                {
+                    "__typename": "ProductDefinition",
+                    "id": "3211154e-003f-4c6b-9bc7-6653235d8247",
+                    "name": "[CM] Plant Double Aqua",
+                    "status": "ACTIVE",
+                    "stockAvailable": true,
+                    "localizations": [
+                        {
+                            "__typename": "ProductDefinitionLocalization",
+                            "lang": "en-US",
+                            "payload": {
+                                "__typename": "ProductDefinitionLocalizationForAxieInfinity",
+                                "tag": "Shield",
+                                "name": "[CM] Plant Double Aqua",
+                                "description": "",
+                                "maxMmr": 900,
+                                "minMmr": 571,
+                                "energy": 20,
+                                "characters": [
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/2190775/axie/axie-full-transparent.png",
+                                        "name": "Plant",
+                                        "cards": [
+                                            "Confused",
+                                            "Risky Fish",
+                                            "Tassels",
+                                            "Leaf Bug ",
+                                            "Timber",
+                                            "Carrot"
+                                        ],
+                                        "description": "",
+                                        "category": "Front",
+                                        "maxHealth": 0,
+                                        "minHealth": 0,
+                                        "maxMorale": 0,
+                                        "minMorale": 0,
+                                        "maxSpeed": 0,
+                                        "minSpeed": 0,
+                                        "maxSkill": 0,
+                                        "minSkill": 0
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/3508716/axie/axie-full-transparent.png",
+                                        "name": "Aqua",
+                                        "cards": [
+                                            "Telescope",
+                                            "Risky Fish",
+                                            "Bubblemaker",
+                                            "Shoal Star",
+                                            "Sandal",
+                                            "Shrimp"
+                                        ],
+                                        "description": "",
+                                        "category": "Mid",
+                                        "maxHealth": 0,
+                                        "minHealth": 0,
+                                        "maxMorale": 0,
+                                        "minMorale": 0,
+                                        "maxSpeed": 0,
+                                        "minSpeed": 0,
+                                        "maxSkill": 0,
+                                        "minSkill": 0
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/10128765/axie/axie-full-transparent.png",
+                                        "name": "Aqua",
+                                        "cards": [
+                                            "Arco",
+                                            "Clear",
+                                            "Inkling",
+                                            "Nimo",
+                                            "Risky Fish",
+                                            "Scarab"
+                                        ],
+                                        "description": "",
+                                        "category": "Back",
+                                        "maxHealth": 0,
+                                        "minHealth": 0,
+                                        "maxMorale": 0,
+                                        "minMorale": 0,
+                                        "maxSpeed": 0,
+                                        "minSpeed": 0,
+                                        "maxSkill": 0,
+                                        "minSkill": 0
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "pricing": {
+                        "__typename": "EntryFeeAndDailySubscription",
+                        "entryFee": {
+                            "__typename": "PricingDetails",
+                            "productId": "55690768-025b-4ee2-99d3-fc4c7253c50a",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "US Dollar",
+                                "identifier": "usd",
+                                "isoCode": "USD",
+                                "isCrypto": false,
+                                "symbol": "$",
+                                "displayPrecision": 2
+                            },
+                            "amount": 0,
+                            "amountPrecision": 2,
+                            "amountCurrencyId": "472c01d9-a154-4e9a-bf9e-cd6bd8e83452"
+                        },
+                        "subscription": {
+                            "__typename": "PricingDetails",
+                            "productId": "6b4916c2-f38d-4774-9e5f-5185921f5a9b",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "Smooth Love Potion",
+                                "identifier": "axie-slp",
+                                "isoCode": "SLP",
+                                "isCrypto": true,
+                                "symbol": "SLP",
+                                "displayPrecision": 0
+                            },
+                            "amount": 30,
+                            "amountPrecision": 0,
+                            "amountCurrencyId": "8f1360bb-5e9b-437a-8515-6499922c7deb"
+                        }
+                    }
+                },
+                {
+                    "__typename": "ProductDefinition",
+                    "id": "10017ea0-1823-42c3-bcce-c3846b4c6273",
+                    "name": "[CM] Double Beast Plant 2 (Starship)",
+                    "status": "ACTIVE",
+                    "stockAvailable": true,
+                    "localizations": [
+                        {
+                            "__typename": "ProductDefinitionLocalization",
+                            "lang": "en-US",
+                            "payload": {
+                                "__typename": "ProductDefinitionLocalizationForAxieInfinity",
+                                "tag": "Control",
+                                "name": "[CM] Double Beast Plant 2 (Starship)",
+                                "description": "",
+                                "maxMmr": 900,
+                                "minMmr": 571,
+                                "energy": 20,
+                                "characters": [
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/5839877/axie/axie-full-transparent.png",
+                                        "name": "Beast",
+                                        "cards": [
+                                            "Chubby",
+                                            "Nutcracker",
+                                            "Ronin",
+                                            "Nutcracker",
+                                            "Imp",
+                                            "Nutcracker"
+                                        ],
+                                        "description": "",
+                                        "category": "Front",
+                                        "maxHealth": 0,
+                                        "minHealth": 0,
+                                        "maxMorale": 0,
+                                        "minMorale": 0,
+                                        "maxSpeed": 0,
+                                        "minSpeed": 0,
+                                        "maxSkill": 0,
+                                        "minSkill": 0
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/7460207/axie/axie-full-transparent.png",
+                                        "name": "Beast",
+                                        "cards": [
+                                            "Chubby",
+                                            "Nutcracker",
+                                            "Nutcracker",
+                                            "Risky Beast",
+                                            "Nutcracker",
+                                            "Dual Blade"
+                                        ],
+                                        "description": "",
+                                        "category": "Mid",
+                                        "maxHealth": 0,
+                                        "minHealth": 0,
+                                        "maxMorale": 0,
+                                        "minMorale": 0,
+                                        "maxSpeed": 0,
+                                        "minSpeed": 0,
+                                        "maxSkill": 0,
+                                        "minSkill": 0
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/4000334/axie/axie-full-transparent.png",
+                                        "name": "Plant",
+                                        "cards": [
+                                            "Cactus",
+                                            "Carrot",
+                                            "Confused",
+                                            "Hollow",
+                                            "Pumpkin",
+                                            "Serious "
+                                        ],
+                                        "description": "",
+                                        "category": "Back",
+                                        "maxHealth": 0,
+                                        "minHealth": 0,
+                                        "maxMorale": 0,
+                                        "minMorale": 0,
+                                        "maxSpeed": 0,
+                                        "minSpeed": 0,
+                                        "maxSkill": 0,
+                                        "minSkill": 0
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "pricing": {
+                        "__typename": "EntryFeeAndDailySubscription",
+                        "entryFee": {
+                            "__typename": "PricingDetails",
+                            "productId": "55690768-025b-4ee2-99d3-fc4c7253c50a",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "US Dollar",
+                                "identifier": "usd",
+                                "isoCode": "USD",
+                                "isCrypto": false,
+                                "symbol": "$",
+                                "displayPrecision": 2
+                            },
+                            "amount": 0,
+                            "amountPrecision": 2,
+                            "amountCurrencyId": "472c01d9-a154-4e9a-bf9e-cd6bd8e83452"
+                        },
+                        "subscription": {
+                            "__typename": "PricingDetails",
+                            "productId": "6b4916c2-f38d-4774-9e5f-5185921f5a9b",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "Smooth Love Potion",
+                                "identifier": "axie-slp",
+                                "isoCode": "SLP",
+                                "isCrypto": true,
+                                "symbol": "SLP",
+                                "displayPrecision": 0
+                            },
+                            "amount": 30,
+                            "amountPrecision": 0,
+                            "amountCurrencyId": "8f1360bb-5e9b-437a-8515-6499922c7deb"
+                        }
+                    }
+                },
+                {
+                    "__typename": "ProductDefinition",
+                    "id": "b8436514-a8fe-4187-b51f-28425dace08b",
+                    "name": "[CM] Plant Beast Aqua 4 (Starship)",
+                    "status": "ACTIVE",
+                    "stockAvailable": true,
+                    "localizations": [
+                        {
+                            "__typename": "ProductDefinitionLocalization",
+                            "lang": "en-US",
+                            "payload": {
+                                "__typename": "ProductDefinitionLocalizationForAxieInfinity",
+                                "tag": "Control",
+                                "name": "[CM] Plant Beast Aqua 4 (Starship)",
+                                "description": "",
+                                "maxMmr": 900,
+                                "minMmr": 571,
+                                "energy": 20,
+                                "characters": [
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/4552399/axie/axie-full-transparent.png",
+                                        "name": "Aqua",
+                                        "cards": [
+                                            "Gero",
+                                            "Anemone",
+                                            "Inkling",
+                                            "Anemone",
+                                            "Lam",
+                                            "Nimo"
+                                        ],
+                                        "description": "",
+                                        "category": "Front",
+                                        "maxHealth": 0,
+                                        "minHealth": 0,
+                                        "maxMorale": 0,
+                                        "minMorale": 0,
+                                        "maxSpeed": 0,
+                                        "minSpeed": 0,
+                                        "maxSkill": 0,
+                                        "minSkill": 0
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/6488069/axie/axie-full-transparent.png",
+                                        "name": "Plant",
+                                        "cards": [
+                                            "Mavis",
+                                            "Serious",
+                                            "Curly",
+                                            "Cactus",
+                                            "Pumpkin",
+                                            "Potato Leaf"
+                                        ],
+                                        "description": "",
+                                        "category": "Mid",
+                                        "maxHealth": 0,
+                                        "minHealth": 0,
+                                        "maxMorale": 0,
+                                        "minMorale": 0,
+                                        "maxSpeed": 0,
+                                        "minSpeed": 0,
+                                        "maxSkill": 0,
+                                        "minSkill": 0
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/2105102/axie/axie-full-transparent.png",
+                                        "name": "Beast",
+                                        "cards": [
+                                            "Chubby",
+                                            "Cottontail",
+                                            "Goda",
+                                            "Imp",
+                                            "Nyan",
+                                            "Ronin"
+                                        ],
+                                        "description": "",
+                                        "category": "Back",
+                                        "maxHealth": 0,
+                                        "minHealth": 0,
+                                        "maxMorale": 0,
+                                        "minMorale": 0,
+                                        "maxSpeed": 0,
+                                        "minSpeed": 0,
+                                        "maxSkill": 0,
+                                        "minSkill": 0
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "pricing": {
+                        "__typename": "EntryFeeAndDailySubscription",
+                        "entryFee": {
+                            "__typename": "PricingDetails",
+                            "productId": "55690768-025b-4ee2-99d3-fc4c7253c50a",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "US Dollar",
+                                "identifier": "usd",
+                                "isoCode": "USD",
+                                "isCrypto": false,
+                                "symbol": "$",
+                                "displayPrecision": 2
+                            },
+                            "amount": 0,
+                            "amountPrecision": 2,
+                            "amountCurrencyId": "472c01d9-a154-4e9a-bf9e-cd6bd8e83452"
+                        },
+                        "subscription": {
+                            "__typename": "PricingDetails",
+                            "productId": "6b4916c2-f38d-4774-9e5f-5185921f5a9b",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "Smooth Love Potion",
+                                "identifier": "axie-slp",
+                                "isoCode": "SLP",
+                                "isCrypto": true,
+                                "symbol": "SLP",
+                                "displayPrecision": 0
+                            },
+                            "amount": 30,
+                            "amountPrecision": 0,
+                            "amountCurrencyId": "8f1360bb-5e9b-437a-8515-6499922c7deb"
+                        }
+                    }
+                }
+            ],
+            "pageInfo": {
+                "__typename": "PageInfo",
+                "currentPage": 1,
+                "pageSize": 6,
+                "numberOfPages": 42,
+                "totalCount": 247
+            }
+        }
+    }
+}
+
+
+
+
+
+
+
+{
+    "data": {
+        "productDefinitionsDynamicFilters": {
+            "__typename": "ProductDefinitionsConnection",
+            "nodes": [
+                {
+                    "__typename": "ProductDefinition",
+                    "id": "774988b7-e95b-4326-83ea-cc1a045cb091",
+                    "name": "Aqua Discardbug",
+                    "status": "ACTIVE",
+                    "stockAvailable": true,
+                    "localizations": [
+                        {
+                            "__typename": "ProductDefinitionLocalization",
+                            "lang": "en-US",
+                            "payload": {
+                                "__typename": "ProductDefinitionLocalizationForAxieInfinity",
+                                "tag": "Control",
+                                "name": "Aqua Discardbug",
+                                "description": "This is a strong, bleed-heavy team that also can apply various other debuffs to slow the opponent down.",
+                                "maxMmr": 2000,
+                                "minMmr": 1500,
+                                "energy": 40,
+                                "characters": [
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/507745/axie/axie-full-transparent.png",
+                                        "name": "Aqua",
+                                        "cards": [
+                                            "Balloon",
+                                            "Risky Fish",
+                                            "Oranda",
+                                            "Nimo",
+                                            "Clear or Telescope",
+                                            "Nimo, Tiny Fan, Gill or Bubblemaker"
+                                        ],
+                                        "description": "This is your backline damage-heavy axie, capable of fearing opponents with Balloon to power up the Bug's Sandal and generating energy with Nimo.",
+                                        "category": "Damager",
+                                        "maxHealth": 44,
+                                        "minHealth": 44,
+                                        "maxMorale": 28,
+                                        "minMorale": 28,
+                                        "maxSpeed": 57,
+                                        "minSpeed": 57,
+                                        "maxSkill": 35,
+                                        "minSkill": 35
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/11069431/axie/axie-full-transparent.png",
+                                        "name": "Bug",
+                                        "cards": [
+                                            "Fish Snack",
+                                            "Scarab",
+                                            "Pincer",
+                                            "Parasite",
+                                            "Ear Breathing or Larva",
+                                            "Kotaro, Bookworm or Nerdy"
+                                        ],
+                                        "description": "This is the anti-healer of the team that also can give your opponent Goo cards and bleeds.",
+                                        "category": "Controller",
+                                        "maxHealth": 41,
+                                        "minHealth": 41,
+                                        "maxMorale": 57,
+                                        "minMorale": 57,
+                                        "maxSpeed": 31,
+                                        "minSpeed": 31,
+                                        "maxSkill": 35,
+                                        "minSkill": 35
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/10895534/axie/axie-full-transparent.png",
+                                        "name": "Bug",
+                                        "cards": [
+                                            "Fish Snack",
+                                            "Sandal",
+                                            "Pincer",
+                                            "Parasite",
+                                            "Ear Breathing or Larva",
+                                            "Kotaro, Bookworm or Nerdy"
+                                        ],
+                                        "description": "This is your 2nd bug axie that can dish out heavy damage thanks to Sandal, while also applying bleeds.",
+                                        "category": "Damager",
+                                        "maxHealth": 41,
+                                        "minHealth": 41,
+                                        "maxMorale": 28,
+                                        "minMorale": 28,
+                                        "maxSpeed": 31,
+                                        "minSpeed": 31,
+                                        "maxSkill": 35,
+                                        "minSkill": 35
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "pricing": {
+                        "__typename": "EntryFeeAndDailySubscription",
+                        "entryFee": {
+                            "__typename": "PricingDetails",
+                            "productId": "1c566da2-91c8-4de2-8602-31067fb23654",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "US Dollar",
+                                "identifier": "usd",
+                                "isoCode": "USD",
+                                "isCrypto": false,
+                                "symbol": "$",
+                                "displayPrecision": 2
+                            },
+                            "amount": 4999,
+                            "amountPrecision": 2,
+                            "amountCurrencyId": "472c01d9-a154-4e9a-bf9e-cd6bd8e83452"
+                        },
+                        "subscription": {
+                            "__typename": "PricingDetails",
+                            "productId": "65b3d2fb-06cd-4745-9fe7-98cee77b6fb6",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "Smooth Love Potion",
+                                "identifier": "axie-slp",
+                                "isoCode": "SLP",
+                                "isCrypto": true,
+                                "symbol": "SLP",
+                                "displayPrecision": 0
+                            },
+                            "amount": 60,
+                            "amountPrecision": 0,
+                            "amountCurrencyId": "8f1360bb-5e9b-437a-8515-6499922c7deb"
+                        }
+                    }
+                },
+                {
+                    "__typename": "ProductDefinition",
+                    "id": "f3b4a6c0-0f40-4201-98cb-a0f6698ddcd4",
+                    "name": "Plant Double Aqua",
+                    "status": "ACTIVE",
+                    "stockAvailable": true,
+                    "localizations": [
+                        {
+                            "__typename": "ProductDefinitionLocalization",
+                            "lang": "en-US",
+                            "payload": {
+                                "__typename": "ProductDefinitionLocalizationForAxieInfinity",
+                                "tag": "Aggressive Team",
+                                "name": "Plant Double Aqua",
+                                "description": "Plant Double Aqua is a high damage team. Both Aqua axies can finish most enemy axies in one full combo and still put up a decent shield.",
+                                "maxMmr": 2000,
+                                "minMmr": 1500,
+                                "energy": 40,
+                                "characters": [
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/6543709/axie/axie-full-transparent.png",
+                                        "name": "Plant",
+                                        "cards": [
+                                            "Cattail Slap",
+                                            "October Treat",
+                                            "Vegetal Bite",
+                                            "Wooden Stab"
+                                        ],
+                                        "description": "This is your frontline Plant tank axie that despite being a tank, also can deal damage with Wooden Stab. Body parts include: Serious, Beech, Pumpkin, Cattail.",
+                                        "category": "Tank",
+                                        "maxHealth": 61,
+                                        "minHealth": 61,
+                                        "maxMorale": 41,
+                                        "minMorale": 41,
+                                        "maxSpeed": 31,
+                                        "minSpeed": 31,
+                                        "maxSkill": 31,
+                                        "minSkill": 31
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/9094662/axie/axie-full-transparent.png",
+                                        "name": "Aqua",
+                                        "cards": [
+                                            "Crimson Water",
+                                            "Star Shuriken",
+                                            "Swift Escape",
+                                            "Upstream Swim"
+                                        ],
+                                        "description": "This is your midline Aqua axie that can reliably speed past any opposing axie and damage them down before they make their turn. Body parts include: Piranha, Shoal Star, Goldfish, Koi.",
+                                        "category": "Midline",
+                                        "maxHealth": 45,
+                                        "minHealth": 45,
+                                        "maxMorale": 27,
+                                        "minMorale": 27,
+                                        "maxSpeed": 57,
+                                        "minSpeed": 57,
+                                        "maxSkill": 35,
+                                        "minSkill": 35
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/6349154/axie/axie-full-transparent.png",
+                                        "name": "Aqua",
+                                        "cards": [
+                                            "Acrobatic",
+                                            "Crimson Water",
+                                            "Revenge Arrow",
+                                            "Tail Slap"
+                                        ],
+                                        "description": "This is your backline Aqua axie that can also speed itself up & generate energy thanks to Nimo. Body parts include: Piranha, Arco, Risky Beast, Nimo.",
+                                        "category": "Tank",
+                                        "maxHealth": 43,
+                                        "minHealth": 43,
+                                        "maxMorale": 41,
+                                        "minMorale": 41,
+                                        "maxSpeed": 53,
+                                        "minSpeed": 53,
+                                        "maxSkill": 35,
+                                        "minSkill": 35
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "pricing": {
+                        "__typename": "EntryFeeAndDailySubscription",
+                        "entryFee": {
+                            "__typename": "PricingDetails",
+                            "productId": "1c566da2-91c8-4de2-8602-31067fb23654",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "US Dollar",
+                                "identifier": "usd",
+                                "isoCode": "USD",
+                                "isCrypto": false,
+                                "symbol": "$",
+                                "displayPrecision": 2
+                            },
+                            "amount": 4999,
+                            "amountPrecision": 2,
+                            "amountCurrencyId": "472c01d9-a154-4e9a-bf9e-cd6bd8e83452"
+                        },
+                        "subscription": {
+                            "__typename": "PricingDetails",
+                            "productId": "65b3d2fb-06cd-4745-9fe7-98cee77b6fb6",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "Smooth Love Potion",
+                                "identifier": "axie-slp",
+                                "isoCode": "SLP",
+                                "isCrypto": true,
+                                "symbol": "SLP",
+                                "displayPrecision": 0
+                            },
+                            "amount": 60,
+                            "amountPrecision": 0,
+                            "amountCurrencyId": "8f1360bb-5e9b-437a-8515-6499922c7deb"
+                        }
+                    }
+                },
+                {
+                    "__typename": "ProductDefinition",
+                    "id": "7abbab3b-74e3-4554-b37d-b22317c704ae",
+                    "name": "Identity Issues Double Aqua",
+                    "status": "ACTIVE",
+                    "stockAvailable": true,
+                    "localizations": [
+                        {
+                            "__typename": "ProductDefinitionLocalization",
+                            "lang": "en-US",
+                            "payload": {
+                                "__typename": "ProductDefinitionLocalizationForAxieInfinity",
+                                "tag": "Aggressive Team",
+                                "name": "Identity Issues Double Aqua",
+                                "description": "The Identity Issues Double Aqua is versatile, powerful, and difficult to counter. It's focused on doing high damage with both aqua axies along with a high damage plant axie.",
+                                "maxMmr": 2000,
+                                "minMmr": 1500,
+                                "energy": 40,
+                                "characters": [
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/11212000/axie/axie-full-transparent.png",
+                                        "name": "Plant",
+                                        "cards": [
+                                            "Sandal",
+                                            "Cattail",
+                                            "Goda",
+                                            "Beech",
+                                            "Papi or Blossom",
+                                            "Clover, Lotus or Sakura"
+                                        ],
+                                        "description": "This axie is meant to soak damage for the rest of the team, while applying some heavy damage of its own with Sandal.",
+                                        "category": "Frontline",
+                                        "maxHealth": 56,
+                                        "minHealth": 56,
+                                        "maxMorale": 45,
+                                        "minMorale": 45,
+                                        "maxSpeed": 32,
+                                        "minSpeed": 32,
+                                        "maxSkill": 31,
+                                        "minSkill": 31
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/11075768/axie/axie-full-transparent.png",
+                                        "name": "Aqua",
+                                        "cards": [
+                                            "Arco",
+                                            "Risky Fish",
+                                            "Risky Beast",
+                                            "Nimo",
+                                            "Telescope or Clear",
+                                            "Bubblemaker, Gill, Tiny Fan or Nimo"
+                                        ],
+                                        "description": "High damage aqua axie with some energy gain. It can bypass shields with Arco and dish heavy single turn damage with Risky Beast and Fish.",
+                                        "category": "Midline",
+                                        "maxHealth": 43,
+                                        "minHealth": 43,
+                                        "maxMorale": 33,
+                                        "minMorale": 33,
+                                        "maxSpeed": 53,
+                                        "minSpeed": 53,
+                                        "maxSkill": 45,
+                                        "minSkill": 35
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/10863672/axie/axie-full-transparent.png",
+                                        "name": "Aqua",
+                                        "cards": [
+                                            "Cuckoo",
+                                            "Piranha",
+                                            "Blue Moon",
+                                            "Koi",
+                                            "Telescope or Clear",
+                                            "Bubblemaker, Gill, Tiny Fan or Nimo"
+                                        ],
+                                        "description": "High damage aqua axie that can apply Bleeds and wake teammates with Cuckoo.",
+                                        "category": "Frontline",
+                                        "maxHealth": 44,
+                                        "minHealth": 44,
+                                        "maxMorale": 45,
+                                        "minMorale": 45,
+                                        "maxSpeed": 57,
+                                        "minSpeed": 57,
+                                        "maxSkill": 35,
+                                        "minSkill": 35
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "pricing": {
+                        "__typename": "EntryFeeAndDailySubscription",
+                        "entryFee": {
+                            "__typename": "PricingDetails",
+                            "productId": "1c566da2-91c8-4de2-8602-31067fb23654",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "US Dollar",
+                                "identifier": "usd",
+                                "isoCode": "USD",
+                                "isCrypto": false,
+                                "symbol": "$",
+                                "displayPrecision": 2
+                            },
+                            "amount": 4999,
+                            "amountPrecision": 2,
+                            "amountCurrencyId": "472c01d9-a154-4e9a-bf9e-cd6bd8e83452"
+                        },
+                        "subscription": {
+                            "__typename": "PricingDetails",
+                            "productId": "65b3d2fb-06cd-4745-9fe7-98cee77b6fb6",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "Smooth Love Potion",
+                                "identifier": "axie-slp",
+                                "isoCode": "SLP",
+                                "isCrypto": true,
+                                "symbol": "SLP",
+                                "displayPrecision": 0
+                            },
+                            "amount": 60,
+                            "amountPrecision": 0,
+                            "amountCurrencyId": "8f1360bb-5e9b-437a-8515-6499922c7deb"
+                        }
+                    }
+                },
+                {
+                    "__typename": "ProductDefinition",
+                    "id": "fd06af37-6e32-40b9-9e7c-07ceb86cb6c9",
+                    "name": "Immortal Plant Bird",
+                    "status": "ACTIVE",
+                    "stockAvailable": true,
+                    "localizations": [
+                        {
+                            "__typename": "ProductDefinitionLocalization",
+                            "lang": "en-US",
+                            "payload": {
+                                "__typename": "ProductDefinitionLocalizationForAxieInfinity",
+                                "tag": "Control Team",
+                                "name": "Immortal Plant Bird",
+                                "description": "This team can put out deceptively high damage, thanks to damage-hybrid Plants and a powerful Bird axie in the back.",
+                                "maxMmr": 2000,
+                                "minMmr": 1500,
+                                "energy": 40,
+                                "characters": [
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/11057916/axie/axie-full-transparent.png",
+                                        "name": "Plant",
+                                        "cards": [
+                                            "Sandal",
+                                            "Cattail ",
+                                            "Serious",
+                                            "Beech",
+                                            "Plant Ear",
+                                            "Papi"
+                                        ],
+                                        "description": "This is the damage-tank hybrid of the team, that can put out strong damage with Sandal that powers up after a successful Hatsune shield.",
+                                        "category": "Tank",
+                                        "maxHealth": 59,
+                                        "minHealth": 59,
+                                        "maxMorale": 43,
+                                        "minMorale": 43,
+                                        "maxSpeed": 31,
+                                        "minSpeed": 31,
+                                        "maxSkill": 31,
+                                        "minSkill": 31
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/8063515/axie/axie-full-transparent.png",
+                                        "name": "Plant",
+                                        "cards": [
+                                            "Bidens",
+                                            "Hatsune",
+                                            "Cactus",
+                                            "Serious or ZigZag",
+                                            "Plant Ear",
+                                            "Papi or Cucumber Slice"
+                                        ],
+                                        "description": "This Plant is the cleanser of the team, able to removes debuffs with Bidens and provide shielding with Hatsune.",
+                                        "category": "Midline",
+                                        "maxHealth": 61,
+                                        "minHealth": 61,
+                                        "maxMorale": 41,
+                                        "minMorale": 41,
+                                        "maxSpeed": 31,
+                                        "minSpeed": 31,
+                                        "maxSkill": 31,
+                                        "minSkill": 31
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/11339977/axie/axie-full-transparent.png",
+                                        "name": "Bird",
+                                        "cards": [
+                                            "Eggshell",
+                                            "Peace Maker",
+                                            "The Last One",
+                                            "Tri Feather",
+                                            "Mavis",
+                                            "Peace Maker, Risky Bird or Pink Cheek"
+                                        ],
+                                        "description": "This is the primary damage dealer of the team that can divert attention with Eggshell and take out enemies with high damage cards.",
+                                        "category": "Tank",
+                                        "maxHealth": 27,
+                                        "minHealth": 27,
+                                        "maxMorale": 43,
+                                        "minMorale": 43,
+                                        "maxSpeed": 61,
+                                        "minSpeed": 61,
+                                        "maxSkill": 35,
+                                        "minSkill": 35
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "pricing": {
+                        "__typename": "EntryFeeAndDailySubscription",
+                        "entryFee": {
+                            "__typename": "PricingDetails",
+                            "productId": "1c566da2-91c8-4de2-8602-31067fb23654",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "US Dollar",
+                                "identifier": "usd",
+                                "isoCode": "USD",
+                                "isCrypto": false,
+                                "symbol": "$",
+                                "displayPrecision": 2
+                            },
+                            "amount": 4999,
+                            "amountPrecision": 2,
+                            "amountCurrencyId": "472c01d9-a154-4e9a-bf9e-cd6bd8e83452"
+                        },
+                        "subscription": {
+                            "__typename": "PricingDetails",
+                            "productId": "65b3d2fb-06cd-4745-9fe7-98cee77b6fb6",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "Smooth Love Potion",
+                                "identifier": "axie-slp",
+                                "isoCode": "SLP",
+                                "isCrypto": true,
+                                "symbol": "SLP",
+                                "displayPrecision": 0
+                            },
+                            "amount": 60,
+                            "amountPrecision": 0,
+                            "amountCurrencyId": "8f1360bb-5e9b-437a-8515-6499922c7deb"
+                        }
+                    }
+                },
+                {
+                    "__typename": "ProductDefinition",
+                    "id": "6a820d8b-d88d-49f4-be9e-48e787272700",
+                    "name": "God Mech Reflectile",
+                    "status": "ACTIVE",
+                    "stockAvailable": true,
+                    "localizations": [
+                        {
+                            "__typename": "ProductDefinitionLocalization",
+                            "lang": "en-US",
+                            "payload": {
+                                "__typename": "ProductDefinitionLocalizationForAxieInfinity",
+                                "tag": "Balanced Team",
+                                "name": "God Mech Reflectile",
+                                "description": "This team is designed to put out heavy damage while also offering resilience in the late game. The main feature is the Reptile axie who offers unmatched shielding while also providing heavy damage later in the game with Tiny Dino.",
+                                "maxMmr": 2000,
+                                "minMmr": 1500,
+                                "energy": 40,
+                                "characters": [
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/11115773/axie/axie-full-transparent.png",
+                                        "name": "Reptile",
+                                        "cards": [
+                                            "Indian Star",
+                                            "Kotaro",
+                                            "Scaly Spoon",
+                                            "Tiny Dino",
+                                            "Pogona or Friezard",
+                                            "Scar or Gecko"
+                                        ],
+                                        "description": "A tanky, but high-damage dealing axie designed to reflect & shield most of incoming damage in the late game. ",
+                                        "category": "Tank",
+                                        "maxHealth": 57,
+                                        "minHealth": 57,
+                                        "maxMorale": 35,
+                                        "minMorale": 35,
+                                        "maxSpeed": 41,
+                                        "minSpeed": 41,
+                                        "maxSkill": 31,
+                                        "minSkill": 31
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/826584/axie/axie-full-transparent.png",
+                                        "name": "Mech",
+                                        "cards": [
+                                            "Imp",
+                                            "Nut Cracker",
+                                            "Nut Cracker",
+                                            "Ronin",
+                                            "Nut Cracker",
+                                            "Chubby"
+                                        ],
+                                        "description": "A high damage axie focusing on powering up Nut Cracker cards for late game damage.",
+                                        "category": "DPS",
+                                        "maxHealth": 31,
+                                        "minHealth": 31,
+                                        "maxMorale": 45,
+                                        "minMorale": 45,
+                                        "maxSpeed": 45,
+                                        "minSpeed": 45,
+                                        "maxSkill": 43,
+                                        "minSkill": 43
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/10923671/axie/axie-full-transparent.png",
+                                        "name": "Plant",
+                                        "cards": [
+                                            "Sandal",
+                                            "Cattail",
+                                            "Serious",
+                                            "Beech",
+                                            "Papi",
+                                            "Plant Ear"
+                                        ],
+                                        "description": "Your frontline tank, delaying the game for the other two axies on the team but also capable of dealing damage with Sandal. ",
+                                        "category": "Tank",
+                                        "maxHealth": 59,
+                                        "minHealth": 59,
+                                        "maxMorale": 35,
+                                        "minMorale": 35,
+                                        "maxSpeed": 43,
+                                        "minSpeed": 43,
+                                        "maxSkill": 31,
+                                        "minSkill": 31
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "pricing": {
+                        "__typename": "EntryFeeAndDailySubscription",
+                        "entryFee": {
+                            "__typename": "PricingDetails",
+                            "productId": "1c566da2-91c8-4de2-8602-31067fb23654",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "US Dollar",
+                                "identifier": "usd",
+                                "isoCode": "USD",
+                                "isCrypto": false,
+                                "symbol": "$",
+                                "displayPrecision": 2
+                            },
+                            "amount": 4999,
+                            "amountPrecision": 2,
+                            "amountCurrencyId": "472c01d9-a154-4e9a-bf9e-cd6bd8e83452"
+                        },
+                        "subscription": {
+                            "__typename": "PricingDetails",
+                            "productId": "65b3d2fb-06cd-4745-9fe7-98cee77b6fb6",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "Smooth Love Potion",
+                                "identifier": "axie-slp",
+                                "isoCode": "SLP",
+                                "isCrypto": true,
+                                "symbol": "SLP",
+                                "displayPrecision": 0
+                            },
+                            "amount": 60,
+                            "amountPrecision": 0,
+                            "amountCurrencyId": "8f1360bb-5e9b-437a-8515-6499922c7deb"
+                        }
+                    }
+                },
+                {
+                    "__typename": "ProductDefinition",
+                    "id": "703d28a1-f039-469b-ae28-a18e609634cd",
+                    "name": "Aqua Reflectile",
+                    "status": "ACTIVE",
+                    "stockAvailable": true,
+                    "localizations": [
+                        {
+                            "__typename": "ProductDefinitionLocalization",
+                            "lang": "en-US",
+                            "payload": {
+                                "__typename": "ProductDefinitionLocalizationForAxieInfinity",
+                                "tag": "Balanced Team",
+                                "name": "Aqua Reflectile",
+                                "description": "This team is a V2 Classic favorite, featuring an Origin-relevant lineup of a tanky backline Reptile, a high damage Aqua, and a high damage Dusk frontline.",
+                                "maxMmr": 2000,
+                                "minMmr": 1500,
+                                "energy": 40,
+                                "characters": [
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/11327782/axie/axie-full-transparent.png",
+                                        "name": "Reptile",
+                                        "cards": [
+                                            "Indian Star",
+                                            "Kotaro",
+                                            "Tiny Dino",
+                                            "Scaly Spoon",
+                                            "Plant or Bug Eye",
+                                            "Plant or Bug Ear"
+                                        ],
+                                        "description": "This is your backline game closer, the Reptile. It features a strong scaling card with Tiny Dino and can prolong the game with it's shield cards. In the 1 vs 1, it excels.",
+                                        "category": "Tank",
+                                        "maxHealth": 55,
+                                        "minHealth": 53,
+                                        "maxMorale": 41,
+                                        "minMorale": 39,
+                                        "maxSpeed": 41,
+                                        "minSpeed": 39,
+                                        "maxSkill": 39,
+                                        "minSkill": 31
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/10710023/axie/axie-full-transparent.png",
+                                        "name": "Aqua",
+                                        "cards": [
+                                            "Arco",
+                                            "Piranha",
+                                            "Scarab",
+                                            "Nimo",
+                                            "Clear or Telescope",
+                                            "Bird or Aqua Ear"
+                                        ],
+                                        "description": "This is a high-utility Aqua axie that can bypass shields, reduce heals, apply bleeds & generate energy.",
+                                        "category": "DPS",
+                                        "maxHealth": 44,
+                                        "minHealth": 44,
+                                        "maxMorale": 33,
+                                        "minMorale": 33,
+                                        "maxSpeed": 52,
+                                        "minSpeed": 52,
+                                        "maxSkill": 35,
+                                        "minSkill": 35
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/11347169/axie/axie-full-transparent.png",
+                                        "name": "Dusk",
+                                        "cards": [
+                                            "Sandal",
+                                            "Cattail",
+                                            "Caterpillars",
+                                            "Goda",
+                                            "Variety Eye",
+                                            "Variety Ear"
+                                        ],
+                                        "description": "This is the frontline axie of the team that can put out a lot of damage thanks to Sandal and its powerup source, Caterpillars.",
+                                        "category": "Tank",
+                                        "maxHealth": 50,
+                                        "minHealth": 50,
+                                        "maxMorale": 41,
+                                        "minMorale": 39,
+                                        "maxSpeed": 40,
+                                        "minSpeed": 40,
+                                        "maxSkill": 27,
+                                        "minSkill": 27
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "pricing": {
+                        "__typename": "EntryFeeAndDailySubscription",
+                        "entryFee": {
+                            "__typename": "PricingDetails",
+                            "productId": "1c566da2-91c8-4de2-8602-31067fb23654",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "US Dollar",
+                                "identifier": "usd",
+                                "isoCode": "USD",
+                                "isCrypto": false,
+                                "symbol": "$",
+                                "displayPrecision": 2
+                            },
+                            "amount": 4999,
+                            "amountPrecision": 2,
+                            "amountCurrencyId": "472c01d9-a154-4e9a-bf9e-cd6bd8e83452"
+                        },
+                        "subscription": {
+                            "__typename": "PricingDetails",
+                            "productId": "65b3d2fb-06cd-4745-9fe7-98cee77b6fb6",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "Smooth Love Potion",
+                                "identifier": "axie-slp",
+                                "isoCode": "SLP",
+                                "isCrypto": true,
+                                "symbol": "SLP",
+                                "displayPrecision": 0
+                            },
+                            "amount": 60,
+                            "amountPrecision": 0,
+                            "amountCurrencyId": "8f1360bb-5e9b-437a-8515-6499922c7deb"
+                        }
+                    }
+                }
+            ],
+            "pageInfo": {
+                "__typename": "PageInfo",
+                "currentPage": 2,
+                "pageSize": 6,
+                "numberOfPages": 42,
+                "totalCount": 247
+            }
+        }
+    }
+}
+
+
+
+
+
+
+<ul className="grid grid-cols-1 gap-5 md:grid-cols-2 lg:grid-cols-3 mt-4 mb-12">
+                            <div className="rounded-xl p-[1px] my-0 transition cursor-pointer col-span-1">
+                                <div className="relative flex p-6 flex-col h-full rounded-xl hover:no-underline bg-gray-700 shadow-xl">
+                                    <div className="flex-1 flex flex-col">
+                                        <div className="flex items-center space-x-1 rounded-t-xl pb-6 border-b border-gray-600">
+                                            <div className="flex-1">
+                                                <div className="text-center">
+                                                    <img src="https://axiecdn.axieinfinity.com/axies/639169/axie/axie-full-transparent.png" 
+                                                    className="w-full h-auto mb-2 axie-img" alt="Beast Icon" />
+                                                    <div className="flex items-center justify-center text-white text-sm">
+                                                        <img src="https://www.lootrush.com/images/icons/beast.svg" alt="Beast Icon" className="mr-2" />
+                                                        Beast
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div className="flex-1">
+                                                <div className="text-center">
+                                                    <img src="https://axiecdn.axieinfinity.com/axies/7785906/axie/axie-full-transparent.png" className="w-full h-auto mb-2 axie-img" alt="Plant Icon" />
+                                                    <div className="flex items-center justify-center text-white text-sm">
+                                                        <img src="https://www.lootrush.com/images/icons/plant.png" alt="Plant Icon" className="w-4 h-4 mr-2" />
+                                                        Plant
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div className="flex-1">
+                                                <div className="text-center">
+                                                    <img src="https://axiecdn.axieinfinity.com/axies/1917026/axie/axie-full-transparent.png" className="w-full h-auto mb-2 axie-img" alt="Bird Icon" />
+                                                    <div className="flex items-center justify-center text-white text-sm">
+                                                        <img src="https://www.lootrush.com/images/icons/bird.png" alt="Bird Icon" className="w-4 h-4 mr-2" />
+                                                        Bird
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div className="mt-4 flex flex-col flex-1 justify-between">
+                                            <div className="flex-1">
+                                                <div className="flex flex-row gap-2">
+                                                    <div className="rounded-md inline-flex self-start px-2 text-sm bg-[#3DFFB9] text-[#264345]">
+                                                        Origin Compatible
+                                                    </div>
+                                                </div>
+                                                <div className="flex items-center space-x-4 mt-4">
+                                                    <div className="flex items-center text-white mb-0 text-lg">
+                                                        <img src="https://www.lootrush.com/images/icons/USD.svg" className="inline-block w-6 h-auto mr-2" alt="SLP icon" />
+                                                        Free
+                                                        <span className="text-muted text-base">&nbsp;/entry fee</span>
+                                                    </div>
+                                                </div>
+                                                <div className="flex items-center text-white space-x-4 mt-4">
+                                                    <div className="flex items-center mb-0 text-lg">
+                                                        <img src="https://www.lootrush.com/images/icons/slp.png" className="inline-block w-6 h-auto mr-2" alt="SLP icon" />
+                                                        30% SLP
+                                                        <span className="text-muted text-base">&nbsp;/token fee</span>
+                                                    </div>
+                                                </div>
+                                                <div className="mt-4">
+                                                    <div className="flex text-white items-center space-x-4">
+                                                        <h3 className="text-xl mb-2">[CM] Beast Plant Bird</h3>
+                                                    </div>
+                                                    <p className="leading-6 font-body text-gray-400 font-sans m-0 mb-2 overflow-hidden text-ellipsis text-sm"></p>
+                                                </div>
+                                                <div className="flex gap-2 uppercase">
+                                                    <div className="flex text-white items-center" title="571-900 Victory Stars">
+                                                        <img src="https://www.lootrush.com/images/icons/mmr-white.svg" className="inline-block text-white" alt="Victory Stars" title="571-900 Victory Stars" />
+                                                        <span className="text-sm">571-900 VS</span>
+                                                    </div>
+                                                    <div className="flex text-white items-center">
+                                                        <img src="https://www.lootrush.com/images/icons/energy.svg" className="inline-block text-white" alt="Stamina" />
+                                                        <span className="text-sm">20 Stamina</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div>
+                                                <div className="flex items-center justify-between mt-4">
+                                                    <button role="button" className="flex-0 w-full cursor-pointer flex items-center font-body font-bold 
+                                                            select-none relative whitespace-nowrap align-middle outline-0 justify-center w-auto 
+                                                            px-28 py-2 text-sm rounded-lg border border-transparent shadow transition focus:outline-none 
+                                                            hover:no-underline text-white hover:text-white active:text-white bg-purple-500 
+                                                            hover:bg-[purple]-600 active:bg-purple-700">
+                                                        Rent team
+                                                    </button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div className="rounded-xl p-[1px] my-0 transition cursor-pointer col-span-1">
+                                <div className="relative flex p-6 flex-col h-full rounded-xl hover:no-underline bg-gray-700 shadow-xl">
+                                    <div className="flex-1 flex flex-col">
+                                        <div className="flex items-center space-x-1 rounded-t-xl pb-6 border-b border-gray-600">
+                                            <div className="flex-1">
+                                                <div className="text-center">
+                                                    <img src="https://axiecdn.axieinfinity.com/axies/6333653/axie/axie-full-transparent.png" className="w-full h-auto mb-2 axie-img" alt="Beast Icon" />
+                                                    <div className="flex items-center justify-center text-white text-sm">
+                                                        <img src="https://www.lootrush.com/images/icons/plant.png" alt="Plant Icon" className="mr-2" />
+                                                        Plant
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div className="flex-1">
+                                                <div className="text-center">
+                                                    <img src="https://axiecdn.axieinfinity.com/axies/11127582/axie/axie-full-transparent.png" className="w-full h-auto mb-2 axie-img" alt="Plant Icon" />
+                                                    <div className="flex items-center justify-center text-white text-sm">
+                                                        <img src="https://www.lootrush.com/images/icons/bug.png" alt="Plant Icon" className="w-4 h-4 mr-2" />
+                                                        Bug
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div className="flex-1">
+                                                <div className="text-center">
+                                                    <img src="https://axiecdn.axieinfinity.com/axies/10445440/axie/axie-full-transparent.png" className="w-full h-auto mb-2 axie-img" alt="Bird Icon" />
+                                                    <div className="flex items-center justify-center text-white text-sm">
+                                                        <img src="https://www.lootrush.com/images/icons/beast.svg" alt="Bird Icon" className="w-4 h-4 mr-2" />
+                                                        Beast
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div className="mt-4 flex flex-col flex-1 justify-between">
+                                            <div className="flex-1">
+                                                <div className="flex flex-row gap-2">
+                                                    <div className="rounded-md inline-flex self-start px-2 text-sm bg-[#3DFFB9] text-[#264345]">
+                                                        Origin Compatible
+                                                    </div>
+                                                </div>
+                                                <div className="flex text-white items-center space-x-4 mt-4">
+                                                    <div className="flex items-center mb-0 text-lg">
+                                                        <img src="https://www.lootrush.com/images/icons/USD.svg" className="inline-block w-6 h-auto mr-2" alt="SLP icon" />
+                                                        Free
+                                                        <span className="text-muted text-base">&nbsp;/entry fee</span>
+                                                    </div>
+                                                </div>
+                                                <div className="flex text-white items-center space-x-4 mt-4">
+                                                    <div className="flex items-center mb-0 text-lg">
+                                                        <img src="https://www.lootrush.com/images/icons/slp.png" className="inline-block w-6 h-auto mr-2" alt="SLP icon" />
+                                                        30% SLP
+                                                        <span className="text-muted text-base">&nbsp;/token fee</span>
+                                                    </div>
+                                                </div>
+                                                <div className="mt-4">
+                                                    <div className="flex items-center text-white space-x-4">
+                                                        <h3 className="text-xl mb-2">Disablesaur Discardbug</h3>
+                                                    </div>
+                                                    <p className="leading-6 font-body text-gray-400 font-sans m-0 mb-2 overflow-hidden text-ellipsis text-sm">
+                                                        The Disablesaur Discardbug build is more advanced, but can be very powerful in the right hands. It focuses on stunning, discarding, and disabling enemies so the...
+                                                    </p>
+                                                </div>
+                                                <div className="flex gap-2 text-white uppercase">
+                                                    <div className="flex items-center" title="571-900 Victory Stars">
+                                                        <img src="https://www.lootrush.com/images/icons/mmr-white.svg" className="inline-block text-white" alt="Victory Stars" title="571-900 Victory Stars" />
+                                                        <span className="text-sm">550-900 VS</span>
+                                                    </div>
+                                                    <div className="flex items-center">
+                                                        <img src="https://www.lootrush.com/images/icons/energy.svg" className="inline-block text-white" alt="Stamina" />
+                                                        <span className="text-sm">20 Stamina</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div>
+                                                <div className="flex items-center justify-between mt-4">
+                                                    <button role="button" className="flex-0 w-full cursor-pointer flex items-center font-body font-bold 
+                                                                                                                                                select-none relative whitespace-nowrap align-middle outline-0 justify-center w-auto 
+                                                                                                                                                px-28 py-2 text-sm rounded-lg border border-transparent shadow transition focus:outline-none 
+                                                                                                                                                hover:no-underline text-white hover:text-white active:text-white bg-purple-500 
+                                                                                                                                                hover:bg-purple-600 active:bg-purple-700">
+                                                        Rent team
+                                                    </button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div className="rounded-xl p-[1px] my-0 transition cursor-pointer col-span-1">
+                                <div className="relative flex p-6 flex-col h-full rounded-xl hover:no-underline bg-gray-700 shadow-xl">
+                                    <div className="flex-1 flex flex-col">
+                                        <div className="flex items-center space-x-1 rounded-t-xl pb-6 border-b border-gray-600">
+                                            <div className="flex-1">
+                                                <div className="text-center">
+                                                    <img src="https://axiecdn.axieinfinity.com/axies/307396/axie/axie-full-transparent.png" className="w-full h-auto mb-2 axie-img" alt="Beast Icon" />
+                                                    <div className="flex items-center justify-center text-white text-sm">
+                                                        <img src="https://www.lootrush.com/images/icons/beast.svg" alt="Beast Icon" className="mr-2" />
+                                                        Beast
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div className="flex-1">
+                                                <div className="text-center">
+                                                    <img src="https://axiecdn.axieinfinity.com/axies/2470429/axie/axie-full-transparent.png" className="w-full h-auto mb-2 axie-img" alt="Plant Icon" />
+                                                    <div className="flex items-center justify-center text-white text-sm">
+                                                        <img src="https://www.lootrush.com/images/icons/aqua.svg" alt="Aqua Icon" className="w-4 h-4 mr-2" />
+                                                        Aqua
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div className="flex-1">
+                                                <div className="text-center">
+                                                    <img src="https://axiecdn.axieinfinity.com/axies/8339940/axie/axie-full-transparent.png" className="w-full h-auto mb-2 axie-img" alt="Bird Icon" />
+                                                    <div className="flex items-center justify-center text-white text-sm">
+                                                        <img src="https://www.lootrush.com/images/icons/aqua.svg" alt="Aqua Icon" className="w-4 h-4 mr-2" />
+                                                        Aqua
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div className="mt-4 flex flex-col flex-1 justify-between">
+                                            <div className="flex-1">
+                                                <div className="flex flex-row gap-2">
+                                                    <div className="rounded-md inline-flex self-start px-2 text-sm bg-[#3DFFB9] text-[#264345]">
+                                                        Origin Compatible
+                                                    </div>
+                                                </div>
+                                                <div className="flex items-center text-white space-x-4 mt-4">
+                                                    <div className="flex items-center mb-0 text-lg">
+                                                        <img src="https://www.lootrush.com/images/icons/USD.svg" className="inline-block w-6 h-auto mr-2" alt="SLP icon" />
+                                                        Free
+                                                        <span className="text-muted text-base">&nbsp;/entry fee</span>
+                                                    </div>
+                                                </div>
+                                                <div className="flex items-center text-white space-x-4 mt-4">
+                                                    <div className="flex items-center mb-0 text-lg">
+                                                        <img src="https://www.lootrush.com/images/icons/slp.png" className="inline-block w-6 h-auto mr-2" alt="SLP icon" />
+                                                        30% SLP
+                                                        <span className="text-muted text-base">&nbsp;/token fee</span>
+                                                    </div>
+                                                </div>
+                                                <div className="mt-4">
+                                                    <div className="flex items-center text-white space-x-4">
+                                                        <h3 className="text-xl mb-2">[CM] Double Aqua Beast 3</h3>
+                                                    </div>
+                                                    <p className="leading-6 font-body text-gray-400 font-sans m-0 mb-2 overflow-hidden text-ellipsis text-sm"></p>
+                                                </div>
+                                                <div className="flex gap-2 text-white uppercase">
+                                                    <div className="flex items-center" title="571-900 Victory Stars">
+                                                        <img src="https://www.lootrush.com/images/icons/mmr-white.svg" className="inline-block text-white" alt="Victory Stars" title="571-900 Victory Stars" />
+                                                        <span className="text-sm">570-900 VS</span>
+                                                    </div>
+                                                    <div className="flex items-center">
+                                                        <img src="https://www.lootrush.com/images/icons/energy.svg" className="inline-block text-white" alt="Stamina" />
+                                                        <span className="text-sm">20 Stamina</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div>
+                                                <div className="flex items-center justify-between mt-4">
+                                                    <button role="button" className="flex-0 w-full cursor-pointer flex items-center font-body font-bold 
+                                                                                                                                                select-none relative whitespace-nowrap align-middle outline-0 justify-center w-auto 
+                                                                                                                                                px-28 py-2 text-sm rounded-lg border border-transparent shadow transition focus:outline-none 
+                                                                                                                                                hover:no-underline text-white hover:text-white active:text-white bg-purple-500 
+                                                                                                                                                hover:bg-purple-600 active:bg-purple-700">
+                                                        Rent team
+                                                    </button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div className="rounded-xl p-[1px] my-0 transition cursor-pointer col-span-1">
+                                <div className="relative flex p-6 flex-col h-full rounded-xl hover:no-underline bg-gray-700 shadow-xl">
+                                    <div className="flex-1 flex flex-col">
+                                        <div className="flex items-center space-x-1 rounded-t-xl pb-6 border-b border-gray-600">
+                                            <div className="flex-1">
+                                                <div className="text-center">
+                                                    <img src="https://axiecdn.axieinfinity.com/axies/10758850/axie/axie-full-transparent.png" className="w-full h-auto mb-2 axie-img" alt="Beast Icon" />
+                                                    <div className="flex items-center justify-center text-white text-sm">
+                                                        <img src="https://www.lootrush.com/images/icons/aqua.svg" alt="Aqua Icon" className="mr-2" />
+                                                        Aqua
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div className="flex-1">
+                                                <div className="text-center">
+                                                    <img src="https://axiecdn.axieinfinity.com/axies/5759537/axie/axie-full-transparent.png" className="w-full h-auto mb-2 axie-img" alt="Plant Icon" />
+                                                    <div className="flex items-center justify-center text-white text-sm">
+                                                        <img src="https://www.lootrush.com/images/icons/plant.png" alt="Plant Icon" className="w-4 h-4 mr-2" />
+                                                        Plant
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div className="flex-1">
+                                                <div className="text-center">
+                                                    <img src="https://axiecdn.axieinfinity.com/axies/1917026/axie/axie-full-transparent.png" className="w-full h-auto mb-2 axie-img" alt="Bird Icon" />
+                                                    <div className="flex items-center justify-center text-white text-sm">
+                                                        <img src="https://www.lootrush.com/images/icons/bird.png" alt="Bird Icon" className="w-4 h-4 mr-2" />
+                                                        Bird
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div className="mt-4 flex flex-col flex-1 justify-between">
+                                            <div className="flex-1">
+                                                <div className="flex flex-row gap-2">
+                                                    <div className="rounded-md inline-flex self-start px-2 text-sm bg-[#3DFFB9] text-[#264345]">
+                                                        Origin Compatible
+                                                    </div>
+                                                </div>
+                                                <div className="flex items-center space-x-4 mt-4">
+                                                    <div className="flex items-center text-white mb-0 text-lg">
+                                                        <img src="https://www.lootrush.com/images/icons/USD.svg" className="inline-block w-6 h-auto mr-2" alt="SLP icon" />
+                                                        Free
+                                                        <span className="text-muted text-base">&nbsp;/entry fee</span>
+                                                    </div>
+                                                </div>
+                                                <div className="flex items-center text-white space-x-4 mt-4">
+                                                    <div className="flex items-center mb-0 text-lg">
+                                                        <img src="https://www.lootrush.com/images/icons/slp.png" className="inline-block w-6 h-auto mr-2" alt="SLP icon" />
+                                                        30% SLP
+                                                        <span className="text-muted text-base">&nbsp;/token fee</span>
+                                                    </div>
+                                                </div>
+                                                <div className="mt-4">
+                                                    <div className="flex items-center text-white space-x-4">
+                                                        <h3 className="text-xl mb-2">[CM] Aqua Bird Plant </h3>
+                                                    </div>
+                                                    <p className="leading-6 font-body text-gray-400 font-sans m-0 mb-2 overflow-hidden text-ellipsis text-sm"></p>
+                                                </div>
+                                                <div className="flex gap-2 text-white uppercase">
+                                                    <div className="flex items-center" title="571-900 Victory Stars">
+                                                        <img src="https://www.lootrush.com/images/icons/mmr-white.svg" className="inline-block text-white" alt="Victory Stars" title="571-900 Victory Stars" />
+                                                        <span className="text-sm">571-900 VS</span>
+                                                    </div>
+                                                    <div className="flex items-center">
+                                                        <img src="https://www.lootrush.com/images/icons/energy.svg" className="inline-block text-white" alt="Stamina" />
+                                                        <span className="text-sm">20 Stamina</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div>
+                                                <div className="flex items-center justify-between mt-4">
+                                                    <button role="button" className="flex-0 w-full cursor-pointer flex items-center font-body font-bold 
+                                                                                                                                                select-none relative whitespace-nowrap align-middle outline-0 justify-center w-auto 
+                                                                                                                                                px-28 py-2 text-sm rounded-lg border border-transparent shadow transition focus:outline-none 
+                                                                                                                                                hover:no-underline text-white hover:text-white active:text-white bg-purple-500 
+                                                                                                                                                hover:bg-purple-600 active:bg-purple-700">
+                                                        Rent team
+                                                    </button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div className="rounded-xl p-[1px] my-0 transition cursor-pointer col-span-1">
+                                <div className="relative flex p-6 flex-col h-full rounded-xl hover:no-underline bg-gray-700 shadow-xl">
+                                    <div className="flex-1 flex flex-col">
+                                        <div className="flex items-center space-x-1 rounded-t-xl pb-6 border-b border-gray-600">
+                                            <div className="flex-1">
+                                                <div className="text-center">
+                                                    <img src="https://axiecdn.axieinfinity.com/axies/8105376/axie/axie-full-transparent.png" className="w-full h-auto mb-2 axie-img" alt="Beast Icon" />
+                                                    <div className="flex items-center justify-center text-white text-sm">
+                                                        <img src="https://www.lootrush.com/images/icons/plant.png" alt="Plant Icon" className="mr-2" />
+                                                        Plant
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div className="flex-1">
+                                                <div className="text-center">
+                                                    <img src="https://axiecdn.axieinfinity.com/axies/7361382/axie/axie-full-transparent.png" className="w-full h-auto mb-2 axie-img" alt="Plant Icon" />
+                                                    <div className="flex items-center justify-center text-white text-sm">
+                                                        <img src="https://www.lootrush.com/images/icons/dusk.svg" alt="Dusk Icon" className="w-4 h-4 mr-2" />
+                                                        Dusk
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div className="flex-1">
+                                                <div className="text-center">
+                                                    <img src="https://axiecdn.axieinfinity.com/axies/8185211/axie/axie-full-transparent.png" className="w-full h-auto mb-2 axie-img" alt="Bird Icon" />
+                                                    <div className="flex items-center justify-center text-white text-sm">
+                                                        <img src="https://www.lootrush.com/images/icons/dusk.svg" alt="Dusk Icon" className="w-4 h-4 mr-2" />
+                                                        Dusk
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div className="mt-4 flex flex-col flex-1 justify-between">
+                                            <div className="flex-1">
+                                                <div className="flex flex-row gap-2">
+                                                    <div className="rounded-md inline-flex self-start px-2 text-sm bg-[#3DFFB9] text-[#264345]">
+                                                        Origin Compatible
+                                                    </div>
+                                                </div>
+                                                <div className="flex items-center text-white space-x-4 mt-4">
+                                                    <div className="flex items-center mb-0 text-lg">
+                                                        <img src="https://www.lootrush.com/images/icons/USD.svg" className="inline-block w-6 h-auto mr-2" alt="SLP icon" />
+                                                        Free
+                                                        <span className="text-muted text-base">&nbsp;/entry fee</span>
+                                                    </div>
+                                                </div>
+                                                <div className="flex items-center text-white space-x-4 mt-4">
+                                                    <div className="flex items-center mb-0 text-lg">
+                                                        <img src="https://www.lootrush.com/images/icons/slp.png" className="inline-block w-6 h-auto mr-2" alt="SLP icon" />
+                                                        30% SLP
+                                                        <span className="text-muted text-base">&nbsp;/token fee</span>
+                                                    </div>
+                                                </div>
+                                                <div className="mt-4">
+                                                    <div className="flex items-center text-white space-x-4">
+                                                        <h3 className="text-xl mb-2">[CM] Plant Double Dusk 2 </h3>
+                                                    </div>
+                                                    <p className="leading-6 font-body text-gray-400 font-sans m-0 mb-2 overflow-hidden text-ellipsis text-sm"></p>
+                                                </div>
+                                                <div className="flex gap-2 text-white uppercase">
+                                                    <div className="flex items-center" title="571-900 Victory Stars">
+                                                        <img src="https://www.lootrush.com/images/icons/mmr-white.svg" className="inline-block text-white" alt="Victory Stars" title="571-900 Victory Stars" />
+                                                        <span className="text-sm">320-570 VS</span>
+                                                    </div>
+                                                    <div className="flex items-center">
+                                                        <img src="https://www.lootrush.com/images/icons/energy.svg" className="inline-block text-white" alt="Stamina" />
+                                                        <span className="text-sm">20 Stamina</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div>
+                                                <div className="flex items-center justify-between mt-4">
+                                                    <button role="button" className="flex-0 w-full cursor-pointer flex items-center font-body font-bold 
+                                                                                                                                                select-none relative whitespace-nowrap align-middle outline-0 justify-center w-auto 
+                                                                                                                                                px-28 py-2 text-sm rounded-lg border border-transparent shadow transition focus:outline-none 
+                                                                                                                                                hover:no-underline text-white hover:text-white active:text-white bg-purple-500 
+                                                                                                                                                hover:bg-purple-600 active:bg-purple-700">
+                                                        Rent team
+                                                    </button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div className="rounded-xl p-[1px] my-0 transition cursor-pointer col-span-1">
+                                <div className="relative flex p-6 flex-col h-full rounded-xl hover:no-underline bg-gray-700 shadow-xl">
+                                    <div className="flex-1 flex flex-col">
+                                        <div className="flex items-center space-x-1 rounded-t-xl pb-6 border-b border-gray-600">
+                                            <div className="flex-1">
+                                                <div className="text-center">
+                                                    <img src="https://axiecdn.axieinfinity.com/axies/3847676/axie/axie-full-transparent.png" className="w-full h-auto mb-2 axie-img" alt="Beast Icon" />
+                                                    <div className="flex items-center justify-center text-white text-sm">
+                                                        <img src="https://www.lootrush.com/images/icons/beast.svg" alt="Beast Icon" className="mr-2" />
+                                                        Beast
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div className="flex-1">
+                                                <div className="text-center">
+                                                    <img src="https://axiecdn.axieinfinity.com/axies/9537486/axie/axie-full-transparent.png" className="w-full h-auto mb-2 axie-img" alt="Plant Icon" />
+                                                    <div className="flex items-center justify-center text-white text-sm">
+                                                        <img src="https://www.lootrush.com/images/icons/dusk.svg" alt="Dusk Icon" className="w-4 h-4 mr-2" />
+                                                        Dusk
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div className="flex-1">
+                                                <div className="text-center">
+                                                    <img src="https://axiecdn.axieinfinity.com/axies/8047875/axie/axie-full-transparent.png" className="w-full h-auto mb-2 axie-img" alt="Bird Icon" />
+                                                    <div className="flex items-center justify-center text-white text-sm">
+                                                        <img src="https://www.lootrush.com/images/icons/plant.png" alt="Plant Icon" className="w-4 h-4 mr-2" />
+                                                        Plant
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div className="mt-4 flex flex-col flex-1 justify-between">
+                                            <div className="flex-1">
+                                                <div className="flex flex-row gap-2">
+                                                    <div className="rounded-md inline-flex self-start px-2 text-sm bg-[#3DFFB9] text-[#264345]">
+                                                        Origin Compatible
+                                                    </div>
+                                                </div>
+                                                <div className="flex items-center text-white space-x-4 mt-4">
+                                                    <div className="flex items-center mb-0 text-lg">
+                                                        <img src="https://www.lootrush.com/images/icons/USD.svg" className="inline-block w-6 h-auto mr-2" alt="SLP icon" />
+                                                        Free
+                                                        <span className="text-muted text-base">&nbsp;/entry fee</span>
+                                                    </div>
+                                                </div>
+                                                <div className="flex items-center text-white space-x-4 mt-4">
+                                                    <div className="flex items-center mb-0 text-lg">
+                                                        <img src="https://www.lootrush.com/images/icons/slp.png" className="inline-block w-6 h-auto mr-2" alt="SLP icon" />
+                                                        30% SLP
+                                                        <span className="text-muted text-base">&nbsp;/token fee</span>
+                                                    </div>
+                                                </div>
+                                                <div className="mt-4">
+                                                    <div className="flex items-center text-white space-x-4">
+                                                        <h3 className="text-xl mb-2">[CM] Dust Plant Beast </h3>
+                                                    </div>
+                                                    <p className="leading-6 font-body text-gray-400 font-sans m-0 mb-2 overflow-hidden text-ellipsis text-sm"></p>
+                                                </div>
+                                                <div className="flex gap-2 text-white uppercase">
+                                                    <div className="flex items-center" title="571-900 Victory Stars">
+                                                        <img src="https://www.lootrush.com/images/icons/mmr-white.svg" className="inline-block text-white" alt="Victory Stars" title="571-900 Victory Stars" />
+                                                        <span className="text-sm">571-900 VS</span>
+                                                    </div>
+                                                    <div className="flex items-center">
+                                                        <img src="https://www.lootrush.com/images/icons/energy.svg" className="inline-block text-white" alt="Stamina" />
+                                                        <span className="text-sm">20 Stamina</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div>
+                                                <div className="flex items-center justify-between mt-4">
+                                                    <button role="button" className="flex-0 w-full cursor-pointer flex items-center font-body font-bold 
+                                                                                                                                                select-none relative whitespace-nowrap align-middle outline-0 justify-center w-auto 
+                                                                                                                                                px-28 py-2 text-sm rounded-lg border border-transparent shadow transition focus:outline-none 
+                                                                                                                                                hover:no-underline text-white hover:text-white active:text-white bg-purple-500 
+                                                                                                                                                hover:bg-purple-600 active:bg-purple-700">
+                                                        Rent team
+                                                    </button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </ul>

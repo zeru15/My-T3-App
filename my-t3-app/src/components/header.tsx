@@ -1,6 +1,7 @@
 import Link from "next/link"
 import { Dialog, Transition } from '@headlessui/react'
 import { Fragment, useState } from 'react'
+import { BsList, BsFillXCircleFill } from "react-icons/bs"
 
 function Header() {
 
@@ -24,32 +25,40 @@ function Header() {
         setIsSignUpOpen(true)
     }
 
+    let [openMenu, setOpenMenu] = useState(false)
     return (
         <div className="sticky top-0 z-30">
             {/* Navbar Header Section */}
-            < div className="bg-gray-800  border-b border-gray-600 shadow-lg 
-            items-center flex justify-between w-full fixed top-0 " >
+            < div className="bg-gray-900  border-b border-gray-600 shadow-lg 
+            items-center md:flex justify-between w-full fixed top-0 " >
 
                 {/* Left Side */}
                 < div className="flex items-center " >
 
-                    <a href="https://www.lootrush.com">
-                        <img src="https://www.lootrush.com/images/logo.svg" alt="Logo" className="inline-block p-4 ml-12" />
-                    </a>
-
-                    <Link href="#" >
-                        <a className="text-white inline-block p-2 bg-white bg-opacity-0 hover:bg-opacity-20 rounded-lg ">All Games</a>
-                    </Link>
+                    <span>
+                        <a href="/">
+                            <img src="https://www.lootrush.com/images/logo.svg" alt="Logo" className="  md:pb-4 p-4" />
+                        </a>
+                    </span>
+                    <button onClick = {() =>setOpenMenu(!openMenu)} className="text-3xl text-white absolute right-8 top-6 md:hidden ">
+                        {openMenu ? <BsFillXCircleFill/> : <BsList /> }
+                    </button>
+                    <span>
+                        <Link href="/games" >
+                            <a className="text-white p-2 bg-white bg-opacity-0 hover:bg-opacity-20 rounded-lg ml-16 md:ml-0 ">All Games</a>
+                        </Link>
+                    </span>
                 </div >
 
                 {/* Right Side */}
-                < div >
-                    <button onClick={openModal} className="inline-block p-2 mr-4 
+                < div className={`pl-40 md:pl-0 py-8 md:py-0 absolute md:static bg-gray-800 w-full md:w-auto transition-all duration-500 ease-in border-b border-gray-600 md:border-none
+                 ${openMenu ? 'top-20 opacity-100' : 'top-[-490px opacity-0 md:opacity-100 '}`}>
+                    <button onClick={openModal} className=" p-2 mr-4 
                     text-white bg-gray-600 hover:bg-gray-700 rounded-lg active:bg-gray-800 " >
                         Login
                     </button>
 
-                    <button onClick={openSignUpModal} className="inline-block p-2 mr-12 bg-violet-500 text-white hover:bg-violet-600 rounded-lg  " >
+                    <button onClick={openSignUpModal} className=" p-2 mr-12 bg-violet-500 text-white hover:bg-violet-600 rounded-lg  " >
                         Create Account
                     </button>
                 </div >
@@ -141,7 +150,9 @@ function Header() {
                                         <div className="mt-4">
                                             <button
                                                 type="button"
-                                                className="inline-flex justify-center rounded-md border border-transparent bg-gray-600 px-4 py-2 text-sm font-medium text-white hover:bg-blue-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2"
+                                                className="inline-flex justify-center rounded-md border border-transparent bg-gray-600 
+                                                px-4 py-2 text-sm font-medium text-white hover:bg-blue-200 focus:outline-none 
+                                                focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2"
                                                 onClick={closeModal}
                                             >
                                                 Cancel
@@ -256,9 +267,6 @@ function Header() {
                     </Dialog>
                 </Transition>
             </div>
-
-
-
         </div>
     )
 }

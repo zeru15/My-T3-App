@@ -1,0 +1,879 @@
+[
+
+                {
+                    "__typename": "ProductDefinition",
+                    "id": "4b281201-f6a3-4099-946d-3e7ac483f33a",
+                    "name": "[CM] Double Aqua Plant",
+                    "status": "ACTIVE",
+                    "stockAvailable": true,
+                    "localizations": [
+                        {
+                            "__typename": "ProductDefinitionLocalization",
+                            "lang": "en-US",
+                            "payload": {
+                                "__typename": "ProductDefinitionLocalizationForAxieInfinity",
+                                "tag": "Aggressive",
+                                "name": "[CM] Double Aqua Plant",
+                                "description": "",
+                                "maxMmr": 900,
+                                "minMmr": 571,
+                                "energy": 40,
+                                "characters": [
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/7832139/axie/axie-full-transparent.png",
+                                        "name": "Aqua",
+                                        "cards": [
+                                            "Gero",
+                                            "Anemone",
+                                            "Inkling",
+                                            "Lam",
+                                            "Anemone",
+                                            "Nimo"
+                                        ],
+                                        "description": "",
+                                        "category": "Front",
+                                        "maxHealth": 0,
+                                        "minHealth": 0,
+                                        "maxMorale": 0,
+                                        "minMorale": 0,
+                                        "maxSpeed": 0,
+                                        "minSpeed": 0,
+                                        "maxSkill": 0,
+                                        "minSkill": 0
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/6585649/axie/axie-full-transparent.png",
+                                        "name": "Plant",
+                                        "cards": [
+                                            "Confused",
+                                            "Serious",
+                                            "Lotus",
+                                            "Cactus",
+                                            "Pumpkin",
+                                            "Carrot"
+                                        ],
+                                        "description": "",
+                                        "category": "Mid",
+                                        "maxHealth": 0,
+                                        "minHealth": 0,
+                                        "maxMorale": 0,
+                                        "minMorale": 0,
+                                        "maxSpeed": 0,
+                                        "minSpeed": 0,
+                                        "maxSkill": 0,
+                                        "minSkill": 0
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/5004418/axie/axie-full-transparent.png",
+                                        "name": "Aqua",
+                                        "cards": [
+                                            "Gill",
+                                            "Goldfish",
+                                            "Koi",
+                                            "Oranda",
+                                            "Risky Fish",
+                                            "Sleepless"
+                                        ],
+                                        "description": "",
+                                        "category": "Back",
+                                        "maxHealth": 0,
+                                        "minHealth": 0,
+                                        "maxMorale": 0,
+                                        "minMorale": 0,
+                                        "maxSpeed": 0,
+                                        "minSpeed": 0,
+                                        "maxSkill": 0,
+                                        "minSkill": 0
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "pricing": {
+                        "__typename": "EntryFeeAndDailySubscription",
+                        "entryFee": {
+                            "__typename": "PricingDetails",
+                            "productId": "55690768-025b-4ee2-99d3-fc4c7253c50a",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "US Dollar",
+                                "identifier": "usd",
+                                "isoCode": "USD",
+                                "isCrypto": false,
+                                "symbol": "$",
+                                "displayPrecision": 2
+                            },
+                            "amount": 0,
+                            "amountPrecision": 2,
+                            "amountCurrencyId": "472c01d9-a154-4e9a-bf9e-cd6bd8e83452"
+                        },
+                        "subscription": {
+                            "__typename": "PricingDetails",
+                            "productId": "6b4916c2-f38d-4774-9e5f-5185921f5a9b",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "Smooth Love Potion",
+                                "identifier": "axie-slp",
+                                "isoCode": "SLP",
+                                "isCrypto": true,
+                                "symbol": "SLP",
+                                "displayPrecision": 0
+                            },
+                            "amount": 30,
+                            "amountPrecision": 0,
+                            "amountCurrencyId": "8f1360bb-5e9b-437a-8515-6499922c7deb"
+                        }
+                    }
+                },
+                {
+                    "__typename": "ProductDefinition",
+                    "id": "e1d3080b-66e4-4d74-b5e3-a3731f06e647",
+                    "name": "[CM] Triple Plant Mavis (Starship)",
+                    "status": "ACTIVE",
+                    "stockAvailable": true,
+                    "localizations": [
+                        {
+                            "__typename": "ProductDefinitionLocalization",
+                            "lang": "en-US",
+                            "payload": {
+                                "__typename": "ProductDefinitionLocalizationForAxieInfinity",
+                                "tag": "Control",
+                                "name": "[CM] Triple Plant Mavis (Starship)",
+                                "description": "",
+                                "maxMmr": 900,
+                                "minMmr": 571,
+                                "energy": 20,
+                                "characters": [
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/5720217/axie/axie-full-transparent.png",
+                                        "name": "Plant",
+                                        "cards": [
+                                            "Mavis",
+                                            "Serious",
+                                            "Sakura",
+                                            "Cactus",
+                                            "Pumpkin",
+                                            "Carrot"
+                                        ],
+                                        "description": "",
+                                        "category": "Front",
+                                        "maxHealth": 0,
+                                        "minHealth": 0,
+                                        "maxMorale": 0,
+                                        "minMorale": 0,
+                                        "maxSpeed": 0,
+                                        "minSpeed": 0,
+                                        "maxSkill": 0,
+                                        "minSkill": 0
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/3071532/axie/axie-full-transparent.png",
+                                        "name": "Plant",
+                                        "cards": [
+                                            "Mavis",
+                                            "Serious",
+                                            "Curly",
+                                            "Cactus",
+                                            "Pumpkin",
+                                            "Carrot"
+                                        ],
+                                        "description": "",
+                                        "category": "Mid",
+                                        "maxHealth": 0,
+                                        "minHealth": 0,
+                                        "maxMorale": 0,
+                                        "minMorale": 0,
+                                        "maxSpeed": 0,
+                                        "minSpeed": 0,
+                                        "maxSkill": 0,
+                                        "minSkill": 0
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/5720242/axie/axie-full-transparent.png",
+                                        "name": "Plant",
+                                        "cards": [
+                                            "Cactus",
+                                            "Carrot",
+                                            "Mavis",
+                                            "Pumpkin",
+                                            "Sakura",
+                                            "Serious"
+                                        ],
+                                        "description": "",
+                                        "category": "Back",
+                                        "maxHealth": 0,
+                                        "minHealth": 0,
+                                        "maxMorale": 0,
+                                        "minMorale": 0,
+                                        "maxSpeed": 0,
+                                        "minSpeed": 0,
+                                        "maxSkill": 0,
+                                        "minSkill": 0
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "pricing": {
+                        "__typename": "EntryFeeAndDailySubscription",
+                        "entryFee": {
+                            "__typename": "PricingDetails",
+                            "productId": "55690768-025b-4ee2-99d3-fc4c7253c50a",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "US Dollar",
+                                "identifier": "usd",
+                                "isoCode": "USD",
+                                "isCrypto": false,
+                                "symbol": "$",
+                                "displayPrecision": 2
+                            },
+                            "amount": 0,
+                            "amountPrecision": 2,
+                            "amountCurrencyId": "472c01d9-a154-4e9a-bf9e-cd6bd8e83452"
+                        },
+                        "subscription": {
+                            "__typename": "PricingDetails",
+                            "productId": "6b4916c2-f38d-4774-9e5f-5185921f5a9b",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "Smooth Love Potion",
+                                "identifier": "axie-slp",
+                                "isoCode": "SLP",
+                                "isCrypto": true,
+                                "symbol": "SLP",
+                                "displayPrecision": 0
+                            },
+                            "amount": 30,
+                            "amountPrecision": 0,
+                            "amountCurrencyId": "8f1360bb-5e9b-437a-8515-6499922c7deb"
+                        }
+                    }
+                },
+                {
+                    "__typename": "ProductDefinition",
+                    "id": "e1388864-1ecc-47c2-bc98-507df82f63f3",
+                    "name": "[CM] Plant Dusk Mech 2",
+                    "status": "ACTIVE",
+                    "stockAvailable": true,
+                    "localizations": [
+                        {
+                            "__typename": "ProductDefinitionLocalization",
+                            "lang": "en-US",
+                            "payload": {
+                                "__typename": "ProductDefinitionLocalizationForAxieInfinity",
+                                "tag": "Shield",
+                                "name": "[CM] Plant Dusk Mech 2",
+                                "description": "",
+                                "maxMmr": 900,
+                                "minMmr": 571,
+                                "energy": 20,
+                                "characters": [
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/9732060/axie/axie-full-transparent.png",
+                                        "name": "Dusk",
+                                        "cards": [
+                                            "Sleepless",
+                                            "Tiny Turtle",
+                                            "Bubblemaker",
+                                            "Lagging",
+                                            "Snail Shell",
+                                            "Tiny Dino"
+                                        ],
+                                        "description": "",
+                                        "category": "Front",
+                                        "maxHealth": 0,
+                                        "minHealth": 0,
+                                        "maxMorale": 0,
+                                        "minMorale": 0,
+                                        "maxSpeed": 0,
+                                        "minSpeed": 0,
+                                        "maxSkill": 0,
+                                        "minSkill": 0
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/7152501/axie/axie-full-transparent.png",
+                                        "name": "Plant",
+                                        "cards": [
+                                            "Papi",
+                                            "Serious",
+                                            "Lotus",
+                                            "Rose Bud",
+                                            "Pumpkin",
+                                            "Carrot"
+                                        ],
+                                        "description": "",
+                                        "category": "Mid",
+                                        "maxHealth": 0,
+                                        "minHealth": 0,
+                                        "maxMorale": 0,
+                                        "minMorale": 0,
+                                        "maxSpeed": 0,
+                                        "minSpeed": 0,
+                                        "maxSkill": 0,
+                                        "minSkill": 0
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/431493/axie/axie-full-transparent.png",
+                                        "name": "Mech",
+                                        "cards": [
+                                            "Chubby",
+                                            "Imp",
+                                            "Nutcracker",
+                                            "Nutcracker",
+                                            "Nutcracker",
+                                            "Ronin"
+                                        ],
+                                        "description": "",
+                                        "category": "Front",
+                                        "maxHealth": 0,
+                                        "minHealth": 0,
+                                        "maxMorale": 0,
+                                        "minMorale": 0,
+                                        "maxSpeed": 0,
+                                        "minSpeed": 0,
+                                        "maxSkill": 0,
+                                        "minSkill": 0
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "pricing": {
+                        "__typename": "EntryFeeAndDailySubscription",
+                        "entryFee": {
+                            "__typename": "PricingDetails",
+                            "productId": "55690768-025b-4ee2-99d3-fc4c7253c50a",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "US Dollar",
+                                "identifier": "usd",
+                                "isoCode": "USD",
+                                "isCrypto": false,
+                                "symbol": "$",
+                                "displayPrecision": 2
+                            },
+                            "amount": 0,
+                            "amountPrecision": 2,
+                            "amountCurrencyId": "472c01d9-a154-4e9a-bf9e-cd6bd8e83452"
+                        },
+                        "subscription": {
+                            "__typename": "PricingDetails",
+                            "productId": "6b4916c2-f38d-4774-9e5f-5185921f5a9b",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "Smooth Love Potion",
+                                "identifier": "axie-slp",
+                                "isoCode": "SLP",
+                                "isCrypto": true,
+                                "symbol": "SLP",
+                                "displayPrecision": 0
+                            },
+                            "amount": 30,
+                            "amountPrecision": 0,
+                            "amountCurrencyId": "8f1360bb-5e9b-437a-8515-6499922c7deb"
+                        }
+                    }
+                },
+                {
+                    "__typename": "ProductDefinition",
+                    "id": "a347f3b7-5766-4c48-9dd2-ca3aeaf84a79",
+                    "name": "[CM] Plant Beast Aqua Little Peas (Starship)",
+                    "status": "ACTIVE",
+                    "stockAvailable": true,
+                    "localizations": [
+                        {
+                            "__typename": "ProductDefinitionLocalization",
+                            "lang": "en-US",
+                            "payload": {
+                                "__typename": "ProductDefinitionLocalizationForAxieInfinity",
+                                "tag": "Aggressive",
+                                "name": "[CM] Plant Beast Aqua Little Peas (Starship)",
+                                "description": "",
+                                "maxMmr": 900,
+                                "minMmr": 571,
+                                "energy": 20,
+                                "characters": [
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/6532410/axie/axie-full-transparent.png",
+                                        "name": "Beast",
+                                        "cards": [
+                                            "Little Peas",
+                                            "Nutcracker",
+                                            "Owl",
+                                            "Dual Blade",
+                                            "Risky Beast",
+                                            "Nutcracker"
+                                        ],
+                                        "description": "",
+                                        "category": "Front",
+                                        "maxHealth": 0,
+                                        "minHealth": 0,
+                                        "maxMorale": 0,
+                                        "minMorale": 0,
+                                        "maxSpeed": 0,
+                                        "minSpeed": 0,
+                                        "maxSkill": 0,
+                                        "minSkill": 0
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/4423371/axie/axie-full-transparent.png",
+                                        "name": "Plant",
+                                        "cards": [
+                                            "Little Peas",
+                                            "Serious",
+                                            "Lotus",
+                                            "Cactus",
+                                            "Croc",
+                                            "Carrot"
+                                        ],
+                                        "description": "",
+                                        "category": "Mid",
+                                        "maxHealth": 0,
+                                        "minHealth": 0,
+                                        "maxMorale": 0,
+                                        "minMorale": 0,
+                                        "maxSpeed": 0,
+                                        "minSpeed": 0,
+                                        "maxSkill": 0,
+                                        "minSkill": 0
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/2786110/axie/axie-full-transparent.png",
+                                        "name": "Aqua",
+                                        "cards": [
+                                            "Goldfish",
+                                            "Little Peas",
+                                            "Nimo",
+                                            "Nimo",
+                                            "Risky Fish",
+                                            "Shoal Star"
+                                        ],
+                                        "description": "",
+                                        "category": "Back",
+                                        "maxHealth": 0,
+                                        "minHealth": 0,
+                                        "maxMorale": 0,
+                                        "minMorale": 0,
+                                        "maxSpeed": 0,
+                                        "minSpeed": 0,
+                                        "maxSkill": 0,
+                                        "minSkill": 0
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "pricing": {
+                        "__typename": "EntryFeeAndDailySubscription",
+                        "entryFee": {
+                            "__typename": "PricingDetails",
+                            "productId": "55690768-025b-4ee2-99d3-fc4c7253c50a",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "US Dollar",
+                                "identifier": "usd",
+                                "isoCode": "USD",
+                                "isCrypto": false,
+                                "symbol": "$",
+                                "displayPrecision": 2
+                            },
+                            "amount": 0,
+                            "amountPrecision": 2,
+                            "amountCurrencyId": "472c01d9-a154-4e9a-bf9e-cd6bd8e83452"
+                        },
+                        "subscription": {
+                            "__typename": "PricingDetails",
+                            "productId": "6b4916c2-f38d-4774-9e5f-5185921f5a9b",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "Smooth Love Potion",
+                                "identifier": "axie-slp",
+                                "isoCode": "SLP",
+                                "isCrypto": true,
+                                "symbol": "SLP",
+                                "displayPrecision": 0
+                            },
+                            "amount": 30,
+                            "amountPrecision": 0,
+                            "amountCurrencyId": "8f1360bb-5e9b-437a-8515-6499922c7deb"
+                        }
+                    }
+                },
+                {
+                    "__typename": "ProductDefinition",
+                    "id": "4e4d2fff-6174-42c9-b873-399bdfe1f243",
+                    "name": "[CM] Plant Reptile Aqua",
+                    "status": "ACTIVE",
+                    "stockAvailable": true,
+                    "localizations": [
+                        {
+                            "__typename": "ProductDefinitionLocalization",
+                            "lang": "en-US",
+                            "payload": {
+                                "__typename": "ProductDefinitionLocalizationForAxieInfinity",
+                                "tag": "Control",
+                                "name": "[CM] Plant Reptile Aqua",
+                                "description": "",
+                                "maxMmr": 900,
+                                "minMmr": 571,
+                                "energy": 20,
+                                "characters": [
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/506213/axie/axie-full-transparent.png",
+                                        "name": "Plant",
+                                        "cards": [
+                                            "Beech",
+                                            "Serious",
+                                            "Papi",
+                                            "Clover",
+                                            "Pumpkin",
+                                            "Twin Tail"
+                                        ],
+                                        "description": "",
+                                        "category": "Front",
+                                        "maxHealth": 0,
+                                        "minHealth": 0,
+                                        "maxMorale": 0,
+                                        "minMorale": 0,
+                                        "maxSpeed": 0,
+                                        "minSpeed": 0,
+                                        "maxSkill": 0,
+                                        "minSkill": 0
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/1562526/axie/axie-full-transparent.png",
+                                        "name": "Reptile",
+                                        "cards": [
+                                            "Green Thorns",
+                                            "Tricky",
+                                            "Scaly Spoon",
+                                            "Friezard",
+                                            "Razorbite",
+                                            "Tiny Dino"
+                                        ],
+                                        "description": "",
+                                        "category": "Back",
+                                        "maxHealth": 0,
+                                        "minHealth": 0,
+                                        "maxMorale": 0,
+                                        "minMorale": 0,
+                                        "maxSpeed": 0,
+                                        "minSpeed": 0,
+                                        "maxSkill": 0,
+                                        "minSkill": 0
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/3878573/axie/axie-full-transparent.png",
+                                        "name": "Aqua",
+                                        "cards": [
+                                            "Bubblemaker",
+                                            "Croc",
+                                            "Nimo",
+                                            "Risky Fish",
+                                            "Shoal Star",
+                                            "Telescope"
+                                        ],
+                                        "description": "",
+                                        "category": "Mid",
+                                        "maxHealth": 0,
+                                        "minHealth": 0,
+                                        "maxMorale": 0,
+                                        "minMorale": 0,
+                                        "maxSpeed": 0,
+                                        "minSpeed": 0,
+                                        "maxSkill": 0,
+                                        "minSkill": 0
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "pricing": {
+                        "__typename": "EntryFeeAndDailySubscription",
+                        "entryFee": {
+                            "__typename": "PricingDetails",
+                            "productId": "55690768-025b-4ee2-99d3-fc4c7253c50a",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "US Dollar",
+                                "identifier": "usd",
+                                "isoCode": "USD",
+                                "isCrypto": false,
+                                "symbol": "$",
+                                "displayPrecision": 2
+                            },
+                            "amount": 0,
+                            "amountPrecision": 2,
+                            "amountCurrencyId": "472c01d9-a154-4e9a-bf9e-cd6bd8e83452"
+                        },
+                        "subscription": {
+                            "__typename": "PricingDetails",
+                            "productId": "6b4916c2-f38d-4774-9e5f-5185921f5a9b",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "Smooth Love Potion",
+                                "identifier": "axie-slp",
+                                "isoCode": "SLP",
+                                "isCrypto": true,
+                                "symbol": "SLP",
+                                "displayPrecision": 0
+                            },
+                            "amount": 30,
+                            "amountPrecision": 0,
+                            "amountCurrencyId": "8f1360bb-5e9b-437a-8515-6499922c7deb"
+                        }
+                    }
+                },
+                {
+                    "__typename": "ProductDefinition",
+                    "id": "85095fc2-48d7-4faa-a841-53ac6e081e65",
+                    "name": "Bird Aqua Backdoor",
+                    "status": "ACTIVE",
+                    "stockAvailable": true,
+                    "localizations": [
+                        {
+                            "__typename": "ProductDefinitionLocalization",
+                            "lang": "en-US",
+                            "payload": {
+                                "__typename": "ProductDefinitionLocalizationForAxieInfinity",
+                                "tag": "Aggressive Team",
+                                "name": "Bird Aqua Backdoor",
+                                "description": "This is a strong, damage-heavy team that can take out your enemy's vulnerable backline axie as well as melt down their frontline tank.",
+                                "maxMmr": 2000,
+                                "minMmr": 1500,
+                                "energy": 40,
+                                "characters": [
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/7994412/axie/axie-full-transparent.png",
+                                        "name": "Plant",
+                                        "cards": [
+                                            "Cattail",
+                                            "Leaf Bug",
+                                            "Pumpkin",
+                                            "Serious",
+                                            "Clover",
+                                            "Papi"
+                                        ],
+                                        "description": "This is your frontline Plant tank axie that will generate lots of shielding and set up healing for the team.",
+                                        "category": "Tank",
+                                        "maxHealth": 59,
+                                        "minHealth": 59,
+                                        "maxMorale": 43,
+                                        "minMorale": 43,
+                                        "maxSpeed": 31,
+                                        "minSpeed": 31,
+                                        "maxSkill": 31,
+                                        "minSkill": 31
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/4242226/axie/axie-full-transparent.png",
+                                        "name": "Aqua",
+                                        "cards": [
+                                            "Piranha",
+                                            "Shoal Star",
+                                            "Goldfish",
+                                            "Nimo",
+                                            "Clear or Telescope",
+                                            "Bubblemaker"
+                                        ],
+                                        "description": "This is your midline Aqua axie that serves to dish out high damage and execute enemies with Shoal Star.",
+                                        "category": "Midline",
+                                        "maxHealth": 45,
+                                        "minHealth": 45,
+                                        "maxMorale": 27,
+                                        "minMorale": 27,
+                                        "maxSpeed": 57,
+                                        "minSpeed": 57,
+                                        "maxSkill": 35,
+                                        "minSkill": 35
+                                    },
+                                    {
+                                        "__typename": "ProductDefinitionLocalizationForAxieInfinityCharacter",
+                                        "icon": "https://storage.googleapis.com/assets.axieinfinity.com/axies/823548/axie/axie-full-transparent.png",
+                                        "name": "Bird",
+                                        "cards": [
+                                            "Post Fight",
+                                            "Little Owl",
+                                            "Eggshell",
+                                            "Cupid",
+                                            "Owl",
+                                            "Mavis"
+                                        ],
+                                        "description": "This is your backline Bird axie, capable of putting out very high damage and diverting enemy moves with its Eggshell. ",
+                                        "category": "Tank",
+                                        "maxHealth": 27,
+                                        "minHealth": 27,
+                                        "maxMorale": 43,
+                                        "minMorale": 43,
+                                        "maxSpeed": 61,
+                                        "minSpeed": 61,
+                                        "maxSkill": 35,
+                                        "minSkill": 35
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "pricing": {
+                        "__typename": "EntryFeeAndDailySubscription",
+                        "entryFee": {
+                            "__typename": "PricingDetails",
+                            "productId": "1c566da2-91c8-4de2-8602-31067fb23654",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "US Dollar",
+                                "identifier": "usd",
+                                "isoCode": "USD",
+                                "isCrypto": false,
+                                "symbol": "$",
+                                "displayPrecision": 2
+                            },
+                            "amount": 4999,
+                            "amountPrecision": 2,
+                            "amountCurrencyId": "472c01d9-a154-4e9a-bf9e-cd6bd8e83452"
+                        },
+                        "subscription": {
+                            "__typename": "PricingDetails",
+                            "productId": "65b3d2fb-06cd-4745-9fe7-98cee77b6fb6",
+                            "paymentMethods": [
+                                {
+                                    "__typename": "PaymentMethodsAvailable",
+                                    "options": [
+                                        "credit-card"
+                                    ],
+                                    "paymentProcessorId": "02d49119-621d-4b28-a642-e28b493baf4f"
+                                }
+                            ],
+                            "currency": {
+                                "__typename": "Currency",
+                                "name": "Smooth Love Potion",
+                                "identifier": "axie-slp",
+                                "isoCode": "SLP",
+                                "isCrypto": true,
+                                "symbol": "SLP",
+                                "displayPrecision": 0
+                            },
+                            "amount": 60,
+                            "amountPrecision": 0,
+                            "amountCurrencyId": "8f1360bb-5e9b-437a-8515-6499922c7deb"
+                        }
+                    }
+                }
+            ]

@@ -15,4 +15,13 @@ function defineNextConfig(config) {
 export default defineNextConfig({
   reactStrictMode: true,
   swcMinify: true,
+  images: {
+    domains: [
+      "cdn.discordapp.com",
+      "lh3.googleusercontent.com",
+      "https://res.cloudinary.com",
+      "www.industrialempathy.com",
+      "www.lootrush.com",
+    ],
+  },
 });

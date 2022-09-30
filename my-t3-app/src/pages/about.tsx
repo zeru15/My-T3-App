@@ -1,10 +1,11 @@
 import Footer from "../components/footer"
 import Header from "../components/header"
+import { BsTwitter, BsLinkedin } from "react-icons/bs"
 
 function About() {
     return (
         <div className="bg-gray-800 ">
-            
+
             <Header />
 
             <div className="pt-60 text-center mx-auto max-w-4xl font-display text-5xl font-medium tracking-tight text-white sm:text-7xl">
@@ -30,6 +31,10 @@ function About() {
                         <p className="text-white leading-6 font-body font-bold text-xl mt-8"> Anderson Ferminiano </p>
                         <p className="text-white leading-6 font-body font-bold text-md mt-8"> Board Member at LootRush </p>
                         <p className="leading-6 font-body text-gray-400 mt-5">CEO at LootRush</p>
+                        <div className="flex text-white">
+                            <a href="#" className=" text-2xl bg-white bg-opacity-20 m-4 p-2 rounded-lg "><BsTwitter /></a>
+                            <a href="#" className=" text-2xl bg-white bg-opacity-20 m-4 p-2 rounded-lg "><BsLinkedin /></a>
+                        </div>
                     </div>
                     <div className=" text-center px-20 ">
                         <img src="https://www.lootrush.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhenrique.102319a2.png&w=256&q=75" alt="img2" className="w-50 h-50 display-block mr-auto ml-auto " />
@@ -37,6 +42,10 @@ function About() {
                         <p className="text-white leading-6 font-body font-bold text-md mt-8"> Board Member at LootRush</p>
                         <p className="leading-6 font-body text-gray-400 mt-5">Founder and Co-CEO at Brex
                             Board Member at MercadoLivre</p>
+                        <div className="flex text-white">
+                            <a href="#" className=" text-2xl bg-white bg-opacity-20 m-4 p-2 rounded-lg "><BsTwitter /></a>
+                            <a href="#" className=" text-2xl bg-white bg-opacity-20 m-4 p-2 rounded-lg "><BsLinkedin /></a>
+                        </div>
                     </div>
                     <div className=" text-center px-20 ">
                         <img src="https://www.lootrush.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffred.b8682fe6.png&w=256&q=75" alt="img3" className="w-50 h-50 display-block mr-auto ml-auto " />
@@ -44,6 +53,10 @@ function About() {
                         <p className="text-white leading-6 font-body font-bold text-md mt-8"> Board Member at LootRush </p>
                         <p className="leading-6 font-body text-gray-400 mt-5">Co-Founder at Paradigm
                             Co-founder and Board Member at Coinbase</p>
+                        <div className="flex text-white">
+                            <a href="#" className=" text-2xl bg-white bg-opacity-20 m-4 p-2 rounded-lg "><BsTwitter /></a>
+                            <a href="#" className=" text-2xl bg-white bg-opacity-20 m-4 p-2 rounded-lg "><BsLinkedin /></a>
+                        </div>
                     </div>
                     <div className=" text-center px-20 " >
                         <span><img src="https://www.lootrush.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjohn.2c796528.png&w=256&q=75" alt="img4 " className="w-50 h-50 display-block mr-auto ml-auto " /></span>
@@ -51,6 +64,10 @@ function About() {
                         <p className="text-white leading-6 font-body font-bold text-md mt-8"> Board Observer at LootRush </p>
                         <p className="leading-6 font-body text-gray-400 mt-5">General Partner at a16z
                             Former PM at Riot</p>
+                        <div className="flex text-white">
+                            <a href="#" className=" text-2xl bg-white bg-opacity-20 m-4 p-2 rounded-lg "><BsTwitter /></a>
+                            <a href="#" className=" text-2xl bg-white bg-opacity-20 m-4 p-2 rounded-lg "><BsLinkedin /></a>
+                        </div>
                     </div>
                 </div>
             </div>
